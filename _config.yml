@@ -2,10 +2,14 @@ title: CS 195
 description: "CS 195: Social Implications of Computer Technology"
 collections_dir: collections
 
-url: "sp23.cs195.org"
-edstem: https://edstem.org/us/courses/35154
-ed_zoom_link: https://edstem.org/us/courses/35154/discussion/2394817
-term: Spring 2023
+url: "fa23.cs195.org"
+edstem: TBD
+ed_zoom_link: TBD
+term: Fall 2023
+lecture_time: Wednesday 5:00-6:30PM
+lecture_room: Evans 10
+discussion_time: Thursday 2:00-3:30PM
+discussion_room: Soda 606
 
 theme: minima
 
@@ -24,3 +28,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+markdown: kramdown

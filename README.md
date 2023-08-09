@@ -1,4 +1,4 @@
-cs195
+cs195-fa23
 =====
 
 Website and public materials for UC Berkeley CS 195
@@ -8,7 +8,7 @@ Publishing
 
 * [Install Ruby >= 2.5.0 and Jekyll prerequisites](https://jekyllrb.com/docs/installation/).
   * You'll need an initial version of the `bundler` gem, so run `gem install bundler`.
-* Inside `cs195`, run `bundle install`
+* Inside `cs195-fa23`, run `bundle install`
 * Run local server using `bundle exec jekyll serve`
 * Notes:
   * As of fa18, you can just edit markdown files directly and push to server and they'll be autodeployed.
