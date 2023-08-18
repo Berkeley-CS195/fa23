@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-02-28
+date: 2023-10-04
 number: "07"
-title: "Government Censorship and Surveillance"
+title: Silicon Valley and the U.S.
 slides:
   link: "https://docs.google.com/presentation/d/1mEvqtHJrNzelC-C8HGyJNlLKSRIpsO6u3Hf0hAEX3kM/edit"
   released: false

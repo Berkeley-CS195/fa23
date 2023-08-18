@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-03-21
+date: 2023-10-25
 number: "10"
-title: "Education (canceled)"
+title: Tech and Labor
 slides:
   link: ""
   released: false

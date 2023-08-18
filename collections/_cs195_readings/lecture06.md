@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-02-21
+date: 2023-09-27
 number: "06"
-title: "Memes and Viral Content"
+title: Silicon Valley
 slides:
   link: "https://docs.google.com/presentation/d/1ul27SmS9Et6nHYsMp4zlcBAhT3TpnhDjYAu9X8gyCgU/edit"
   released: false

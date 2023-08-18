@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-03-17
+date: 2023-10-19
 number: "09"
-title: Jobs, Automation, and Labor
+title: "Generative AI, Part II"
 slides:
   link: ""
   released: false

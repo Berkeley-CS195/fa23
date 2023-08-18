@@ -1,6 +1,6 @@
 ---
 layout: cs195-reading
-date: 2023-01-27
+date: 2023-08-31
 number: "02"
 title: Social Connection and Time Well-Spent
 slides:

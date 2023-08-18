@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-03-31
+date: 2023-11-23
 number: "--"
-title: "Spring break: No Class!"
+title: "Break: No Class!"
 slides:
   link: ""
   released: false

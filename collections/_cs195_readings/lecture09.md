@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-03-14
+date: 2023-10-18
 number: "09"
-title: "Jobs, Automation, and Labor"
+title: "[Pam Samuelson] Generative AI, Part II"
 slides:
   link: "https://docs.google.com/presentation/d/1D5A5t993wYZeHh9P-An9SMP-yC5ziA6fs30rOgVz5t0/edit?usp=sharing"
   released: false

@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-04-25
-number: "14"
-title: "Guest Speaker: Khalid Kadir, Whose Cities? The Political Economy of Someone Else’s Smart Cities"
+date: 2023-11-29
+number: "15"
+title: "[guest]"
 slides:
   link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
   released: false

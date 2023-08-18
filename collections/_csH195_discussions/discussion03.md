@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-02-03
+date: 2023-09-07
 number: "03"
-title: Privacy
+title: Data Privacy
 slides:
   link: https://docs.google.com/presentation/d/1xKTKwrBseuVHmWvfvNbeLCAlTntBpQir3YEhLTma6Mw/edit?usp=share_link
   released: false

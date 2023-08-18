@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-02-07
+date: 2023-09-13
 number: "04"
-title: Software Risks
+title: Software Risks and Professional Ethics
 slides:
   link: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit
   released: false

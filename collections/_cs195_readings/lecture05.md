@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-02-14
+date: 2023-09-20
 number: "05"
-title: "Capitalism and Silicon Valley"
+title: Technosolutionism
 slides:
   link: "https://docs.google.com/presentation/d/15gg9nKEDXHKhz6Kr6cXjOEFrzBh1OWdvEY2wKHZFY2w/edit?usp=sharing"
   released: false

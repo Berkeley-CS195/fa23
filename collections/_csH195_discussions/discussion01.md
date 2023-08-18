@@ -1,6 +1,6 @@
 ---
 layout: cs195-reading
-date: 2023-01-20
+date: 2023-08-24
 number: "01"
 title: Free Speech
 slides:

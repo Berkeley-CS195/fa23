@@ -1,6 +1,6 @@
 ---
 layout: cs195-reading
-date: 2023-01-24
+date: 2023-08-30
 number: "02"
 title: Social Connection and Time Well-Spent
 readings_released: false

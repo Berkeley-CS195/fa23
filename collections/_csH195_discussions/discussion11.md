@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-04-07
+date: 2023-11-02
 number: "11"
-title: Teaching, Learning, Belonging
+title: CS Education
 slides:
   link: "https://docs.google.com/presentation/d/1v0uLigV0Qbnk6bORdN4c1Noa74xNer_mt9mUmbW4_Vw/edit#slide=id.p"
   released: false
