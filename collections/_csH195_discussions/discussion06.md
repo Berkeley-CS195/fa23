@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-02-24
+date: 2023-09-28
 number: "06"
-title: Memes and Viral Content
+title: Silicon Valley
 slides:
   link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 <!-- No clue why jekyll-relative-links refuses to process an md link -->

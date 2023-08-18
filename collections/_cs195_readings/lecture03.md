@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-01-31
+date: 2023-09-06
 number: "03"
-title: Privacy
+title: Data Privacy
 slides:
   link: https://docs.google.com/presentation/d/16oaFWbDXew0gfmoCCTAzWqXcnb-cQdWIEYja_rkpbvc/edit?usp=sharing
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Please fill out [Weekly Survey 03][l03_form] by Monday 1/30 at 11:59 PM.**

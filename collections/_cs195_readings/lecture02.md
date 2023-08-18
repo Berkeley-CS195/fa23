@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-01-24
+date: 2023-08-30
 number: "02"
 title: Social Connection and Time Well-Spent
-readings_released: true
+readings_released: false
 slides:
   link: https://docs.google.com/presentation/d/1mZ7AQFgbzLHIU5gjewKvjtAzw_pUUJGDbFBryMY6DSU/edit?usp=sharing
-  released: true
+  released: false
 ---
 
 **Please fill out the [Weekly Survey 02][l02_form] by Monday 01/23 11:59pm PT.**

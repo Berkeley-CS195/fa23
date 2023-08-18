@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-03-21
+date: 2023-10-25
 number: "10"
-title: "Education (canceled)"
+title: Tech and Labor
 slides:
   link: ""
   released: false
-readings_released: true
+readings_released: false
 ---
 **Lecture has been canceled due to the EECS Faculty Retreat. The survey is still required.** See this [Ed post](https://edstem.org/us/courses/35154/discussion/2800890).
 

@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-04-11
+date: 2023-11-08
 number: "12"
-title: "Guest Speaker: Michael Ball, Generative AI"
+title: "[guest] Government Censorship and Surveillance"
 slides:
   link: "https://docs.google.com/presentation/d/17_vbNpYAdAicNZkXJoyXcJwWtRYwEVAO9_i25dgwzuk/edit?usp=sharing"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Guest speaker: Michael Ball, Lecturer in EECS.

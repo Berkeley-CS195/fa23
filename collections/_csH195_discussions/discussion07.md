@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-03-03
+date: 2023-10-05
 number: "07"
-title: "Government Censorship and Surveillance"
+title: "Silicon Valley and the U.S."
 slides:
   link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Readings:

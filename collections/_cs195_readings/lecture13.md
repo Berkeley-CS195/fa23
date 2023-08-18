@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-04-18
+date: 2023-11-15
 number: "13"
-title: "Guest Speaker: Josh Hug, Web 3.0, Bitcoin, and Storytelling"
+title: "Memes, Misinformation, and Information Literacy"
 slides:
   link: "https://docs.google.com/presentation/d/1tGgZxxr1tuacLn6oAVbqR_NhrMDepQEA9vYD5MVfIvs/edit#slide=id.g409413421_0637"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Guest speaker: Josh Hug, Associate Teaching Professor in EECS.

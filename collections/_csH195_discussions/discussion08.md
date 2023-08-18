@@ -1,12 +1,12 @@
 ---
 layout: cs195-reading
-date: 2023-03-10
+date: 2023-10-12
 number: "08"
-title: "Algorithmic Bias and Fairness"
+title: "Generative AI, Part I"
 slides:
   link: "https://docs.google.com/presentation/d/1Fru6OvCCPpEtLyTEydV4pmm0xeF6802jcjwBolY0AAg/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Readings:

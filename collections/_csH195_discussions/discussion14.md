@@ -1,8 +1,8 @@
 ---
 layout: cs195-reading
-date: 2023-11-16
-number: "13"
-title: Memes, Misinformation, and Information Literacy
+date: 2023-11-29
+number: "14"
+title: What Now?
 slides:
   link: "https://docs.google.com/presentation/d/12pPmJJrY1rI-IEuE2Llw3y5eccBEc5s0yG1QRXXyJnA/edit#slide=id.p"
   released: false
