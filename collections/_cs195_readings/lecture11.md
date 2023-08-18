@@ -5,8 +5,8 @@ number: "11"
 title: "Guest Speaker: Jay Chen, Ontological Remapping for an Age of Atomization"
 slides:
   link: "https://drive.google.com/file/d/1jzcVt2N3jdxSb_3s-V9aA7_DUG2yb35y/view?usp=sharing"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Guest speaker: Dr. Jay Chen, Senior Researcher at ICSI. [profile](https://chenjay.org/)

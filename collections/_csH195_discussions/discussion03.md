@@ -5,8 +5,8 @@ number: "03"
 title: Privacy
 slides:
   link: https://docs.google.com/presentation/d/1xKTKwrBseuVHmWvfvNbeLCAlTntBpQir3YEhLTma6Mw/edit?usp=share_link
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Readings:

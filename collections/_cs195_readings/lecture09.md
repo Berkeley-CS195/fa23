@@ -5,8 +5,8 @@ number: "09"
 title: "Jobs, Automation, and Labor"
 slides:
   link: "https://docs.google.com/presentation/d/1D5A5t993wYZeHh9P-An9SMP-yC5ziA6fs30rOgVz5t0/edit?usp=sharing"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Fill out [this survey][l09_form] by Monday 03/13 at 11:59 PM.**

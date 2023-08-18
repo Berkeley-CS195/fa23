@@ -5,8 +5,8 @@ number: "14"
 title: "Guest Speaker: Khalid Kadir, Whose Cities? The Political Economy of Someone Else’s Smart Cities"
 slides:
   link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Guest speaker: Dr. Khalid Kadir, Lecturer in Global Poverty and Practice,

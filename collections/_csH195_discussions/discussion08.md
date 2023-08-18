@@ -5,8 +5,8 @@ number: "08"
 title: "Algorithmic Bias and Fairness"
 slides:
   link: "https://docs.google.com/presentation/d/1Fru6OvCCPpEtLyTEydV4pmm0xeF6802jcjwBolY0AAg/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Readings:

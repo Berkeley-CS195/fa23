@@ -5,8 +5,8 @@ number: "08"
 title: "Algorithmic Bias and Fairness"
 slides:
   link: "https://docs.google.com/presentation/d/1MYl2FFeMdgGXNz1bpDZXg0MkY81ClBcz8sXzQ0HmcLw/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Fill out [this survey][l08_form] by Monday 03/06 at 11:59 PM.**

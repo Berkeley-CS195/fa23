@@ -5,8 +5,8 @@ number: "12"
 title: "Guest Speaker: Michael Ball, Generative AI"
 slides:
   link: "https://docs.google.com/presentation/d/17_vbNpYAdAicNZkXJoyXcJwWtRYwEVAO9_i25dgwzuk/edit?usp=sharing"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Guest speaker: Michael Ball, Lecturer in EECS.

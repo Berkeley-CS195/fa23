@@ -6,7 +6,7 @@ title: Project 2 Presentations
 slides:
   link: ""
   released: false
-readings_released: true
+readings_released: false
 ---
 
 No readings.

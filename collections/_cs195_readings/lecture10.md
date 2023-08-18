@@ -6,7 +6,7 @@ title: "Education (canceled)"
 slides:
   link: ""
   released: false
-readings_released: true
+readings_released: false
 ---
 **Lecture has been canceled due to the EECS Faculty Retreat. The survey is still required.** See this [Ed post](https://edstem.org/us/courses/35154/discussion/2800890).
 

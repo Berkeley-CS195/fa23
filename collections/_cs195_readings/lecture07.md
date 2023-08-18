@@ -5,8 +5,8 @@ number: "07"
 title: "Government Censorship and Surveillance"
 slides:
   link: "https://docs.google.com/presentation/d/1mEvqtHJrNzelC-C8HGyJNlLKSRIpsO6u3Hf0hAEX3kM/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Fill out [this survey][l07_form] by Monday 02/27 at 11:59 PM.**

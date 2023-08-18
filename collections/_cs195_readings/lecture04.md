@@ -5,8 +5,8 @@ number: "04"
 title: Software Risks
 slides:
   link: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Fill out [this survey][l04_form] by Monday 02/06 at 11:59 PM.**

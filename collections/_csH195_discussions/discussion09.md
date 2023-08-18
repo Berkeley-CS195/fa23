@@ -6,7 +6,7 @@ title: Jobs, Automation, and Labor
 slides:
   link: ""
   released: false
-readings_released: true
+readings_released: false
 ---
 
 <!-- No clue why jekyll-relative-links refuses to process an md link -->

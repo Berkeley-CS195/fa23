@@ -5,8 +5,8 @@ number: "01"
 title: Free Speech
 slides:
   link: https://docs.google.com/presentation/d/1bUwt_QM4ZSAIYGSUVnQMMGD0TYs-DgMHCXgEnOk7K3E/edit?usp=sharing
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 **Survey**: Please fill out the [welcome form][welcome_form] by Friday 1/20 11:59pm PT.

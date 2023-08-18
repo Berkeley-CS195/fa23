@@ -5,8 +5,8 @@ number: "07"
 title: "Government Censorship and Surveillance"
 slides:
   link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
-  released: true
-readings_released: true
+  released: false
+readings_released: false
 ---
 
 Readings:
