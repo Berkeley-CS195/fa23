@@ -1,6 +1,6 @@
 ---
 layout: page
-released: false
+released: true
 title: Course Staff
 ---
 
