@@ -10,7 +10,8 @@ toc: true
 * [Course Descriptions and Enrollment](#course-descriptions-and-enrollment)
 * [Staff Contact](#staff-contact)
 * [Course Components and Grading](#course-components-and-grading)
-* [Accommodations](#lecture-and-attendance)
+  * [Readings / QQC+](#readings--qqc)
+* [Accommodations and Late Policy](#accommodations-and-late-policy)
 * [Academic Integrity](#academic-integrity)
 
 ## Course Descriptions and Enrollment
@@ -54,8 +55,8 @@ In order to receive a passing grade in CS 195, you must complete the following:
 | Course Component |  | Overview |
 | --- | --- | --- |
 | Lectures      | [link](#lectures) | Attend at least 10 out of 13 lectures (excludes Lecture 01). | 
-| Weekly Surveys | [link](#weekly-surveys) | Complete all of 14 pre-lecture surveys. |
-| Readings      | [link](#readings) | Do [QQC](#readings) for at least one reading in each set of 14 pre-lecture readings. |
+| Surveys | [link](#surveys) | Complete all course surveys (~4 in the semester). |
+| Readings / QQC+    | [link](#readings--qqc) | Submit a QQC+ on each set of lecture readings. |
 | Essays | [link](#essays) | Submit two Computing in the News essays that receive passing peer review grades. Also, provide 3 peer review essays for each essay. |
 
 ## Lectures
@@ -73,17 +74,44 @@ You cannot have a time conflict. The lecture is the vast majority of the
 experience of the class.
 There will *not* be after-the-fact recordings posted.
 
-### Weekly Surveys
+## Surveys
 
-Lecture topics will not be determined only by the wisdom of your instructor.
-Instead, you will collectively choose your own adventure through the material.  To guide discussion topics, a weekly survey will be announced on Ed. **Please submit the weekly survey each week by Tuesday 11:59 pm Pacific!**
+There will be periodic surveys throughout the semester, announced during class and on Ed. Please submit the survey on time by the date listed on the [homepage](/). Planned list of surveys:
+* Pre-semester survey
+* Technology and identity survey
+* Mid-semester survey
+* End-of-semester survey (note: this is separate from campus course evaluations)
 
-### Readings
+## Readings / QQC+
 
 Readings for each week will be released one week before each next class (or thereabouts). **Please finish the readings before class!**
 
-TODO: QQC description
-* To get credit, you must submit at least one QQC for at least one reading each week.
+**QQC+, or Question, Quote and Comment(s)**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
+
+To complete a QQC+,
+* Post a question, quote, or comment on the associated Ed megapost for a reading.
+  * **Question**: Make a new thread with your question and any needed context/follow-up. You should include the text [Question] at the beginning of your post.
+  * **Quote**: Make a new thread with your quote from the reading and any additional context/follow-up. You should include the text [Quote] at the beginning of your post.
+  * **Comment**: Post a response on *someone else*'s thread.
+* In addition, make a Comment on *someone else*'s thread in the associated Ed megapost for a reading.
+* It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
+
+To receive full credit for each set of lecture readings, you must do two things:
+  * (1) You must make _at least one of_ a Question, Quote, or Comment on the associated Ed megapost for one of the required or recommended readings.
+  * (2) You must _also_ make a Comment on someone else's thread on one of the associated Ed megapost for one of the required or recommended readings (this is what the "+" in "QQC+" symbolizes).
+  * Note: (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended." QQC+s made for "Extra" readings do not count for course credit. For example:
+    * A QQC+ could consist of one Question (or Quote) on one required reading _and_ one Comment on a different recommended reading.
+    * Or, a QQC+ could consist of two Comments on the same required (or recommmended) reading. These Comments can be in the same thread.
+
+Grading:
+  * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
+  * You *should* post in the **Ed megapost** that course staff create for each reading.
+  * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 
+  * "Heart"s on other student posts are encouraged but unfortunately do not count for credit (we have no way of tracking hearts).
+  * **Deadline**: You should complete the QQC+ for a lecture prior to the lecture itself. See the Accommodations and Late Policy [section below](#accommodations-and-late-policy) for more details.
+
+We'll do our best to release grades for the first set of QQC+s early, so that you can understand the grading scheme and update and/or correct your QQC+ submissions.
+
 
 ## Essays
 
@@ -93,25 +121,10 @@ to issues discussed in class.
 Essays are peer reviewed, which means you will
 review **three essays** per peer review window, and have each of your essays reviewed by three of your peers.
 
-"Computing in the News": You will write a short essay comparing two perspectives on the same concept or topic. Details to be released.
-
-[essay1]: assignments/essay1.md
-[essay2]: assignments/essay2.md
-
-[computing-news]: assignments/computing-in-the-news.md
-
-<!--
-## Essays
-
-You will write two short essays (700-1000 words) of varying format in relation
-to issues discussed in class. Essays are peer reviewed, which means you will
-review six essays and have each of your essays reviewed by three of your peers.
-
--->
-
-## Accommodations
+## Accommodations and Late Policy
 
 We understand that situations come up during the semester.
+While we will make an effort to contact students about missing work throughout the semester, *it is ultimately your responsibility to follow up with us to request additional accommodations as needed*.
 
 **Lecture attendance**: Please use your built-in absences first before
 contacting staff about additional makeups. You may make up lecture attendance
@@ -119,9 +132,9 @@ by attending the H195 discussion section (discussion meeting times in sidebar).
 Note that sections often require prework, so please do make a private post on
 Ed in advance so we can provide you with details.
 
-**Pre-lecture surveys**: Please use your built-in survey drops first before
-contacting staff about additional makeups. These will be reopened for
-completion as needed. Please make a private post on Ed.
+**Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion as needed. To request a reopening, please make a private post on Ed.
+
+**Readings/QQC+**: We prefer that you complete each QQC+ by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQC+s.
 
 **Essays**: *As of now there are no plans to offer makeup essays.* While we do
 not want this 1-unit seminar to stress you out, please also understand that
@@ -131,11 +144,7 @@ your commitments (personal emergencies, exams, etc.), please make a private Ed
 post as soon as possible so we can provide a short extension or another
 accommodation. We will review each extension request on an individual basis.
 
-**DSP**: If you have a DSP-approved accommodation, please create a private post
-on the Ed forum so we can allocate extensions based on your letter on record.
-<!--describing your accommodation or the extenuating circumstances, as well as
-the number of additional days that you require to complete the assignment.
--->
+**DSP**: If you have a DSP-approved accommodation, we will contact you by the end of Week 2 with this semester's DSP policies. Requesting assignment extensions according to your letter will involve you making a private post on Ed *prior* to the assignment deadline.
 
 ## Academic Integrity
 
@@ -146,6 +155,6 @@ The student community at UC Berkeley has adopted the following Honor Code: "As a
 **Turnitin**:
 As a tool to promote academic integrity in this course, Turnitin will be used to check essays for originality. Turnitin takes assignments submitted through bCourses and compares them to a database of books, journal articles, websites, and other student papers. This creates an opportunity for you to improve your academic writing skills by ensuring that your sources have been properly cited and attributed. Turnitin can also help you gauge how much of your essay represents your own thinking and language. Please note that a low “Similarity Index” score does not necessarily indicate that the essay in question is without academic integrity issues. For more information on Turnitin see: [UC Berkeley Turnitin Page](https://rtl.berkeley.edu/services-programs/academic-integrity), [Students Getting Started](https://rtl.berkeley.edu/services-programs/academic-integrity/students-get-started-turnitin)
 
-**ChatGPT**: TBD
-* overview of how it should be used as a tool, and not the final product
-* Cite all uses of platform (i.e., the query)
+**ChatGPT**: ChatGPT and other large language model (LLM)-supported software are considered sources of information and should be cited just like any other primary or secondary source. However, an LLM is no more than a tool---and as such, any usage of said tool should be reviewed by you, the human, before submission. In other words, it is alright for you to use LLMs when writing essays or creating QQC+s, but you should include _the prompt and any relevant LLM/chatGPT history_ with your submission. Citation format TBD.
+
+In the essays, there will be an option for you to reflect on the potential pitfalls and challenges of blindly relying on LLM output. Details TBD.
