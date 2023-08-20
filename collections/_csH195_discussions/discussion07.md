@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-10-05
 number: "07"
-title: "Silicon Valley and the U.S."
+title: "Algorithmic Bias and Fairness"
 slides:
   link: "https://docs.google.com/presentation/d/1PK0eeiAW06L03K-e-HGGfQdSG_wcG4dfqI-yMFBNlpc/edit"
   released: false

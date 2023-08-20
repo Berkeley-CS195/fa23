@@ -11,6 +11,8 @@ lecture_room: Evans 10
 discussion_time: Thursday 2:00-3:30PM
 discussion_room: Soda 606
 
+assignment_time: "11:59pm"
+
 theme: minima
 
 exclude:

@@ -2,7 +2,8 @@
 layout: cs195-reading
 date: 2023-11-29
 number: "15"
-title: "[guest]"
+title: "TBD"
+survey: https://docs.google.com/forms/d/e/1FAIpQLSc1H60shHyrhcZcLRR_Be_xr5ldO4FYSq97O16fUcwmglEonA/viewform
 slides:
   link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
   released: false
@@ -15,7 +16,7 @@ Political Economy, Civil and Environmental Engineering at UC Berkeley.
 
 Slides require SP23 bCourses access.
 
-**Fill out [this survey][l14_form] by Monday 04/24 at 11:59 PM.**
+**Fill out [this survey]({{page.survey}}) by Monday 04/24 at 11:59 PM.**
 
 <b>Abstract:</b> We all want the future to be better than the present,
 and many of us would like to be a part of making that happen. However, sometimes
@@ -35,6 +36,4 @@ process, however, is essential if we are serious about contributing to a more
 just, equitable future.
 
 * Required: Ensmenger, N. (2021). [The Cloud Is a Factory][]. In T. S. Mullaney, B. Peters, M. Hicks, & K. Philip (Eds.), Your Computer Is on Fire (pp. 29–49). The MIT Press.
-
-[l14_form]: https://docs.google.com/forms/d/e/1FAIpQLSc1H60shHyrhcZcLRR_Be_xr5ldO4FYSq97O16fUcwmglEonA/viewform
 [The Cloud is a Factory]: https://static.us.edusercontent.com/files/P9oueQ25GmI7FclB3g2KC5eq

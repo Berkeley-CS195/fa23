@@ -3,13 +3,14 @@ layout: cs195-reading
 date: 2023-09-06
 number: "03"
 title: Data Privacy
+readings_released: false
+survey: "https://docs.google.com/forms/d/e/1FAIpQLSe5aLV2vMQYTtLfkO2zqwFq7bqyehcjYXZf_moWoyLuIvhsaQ/viewform?usp=sf_link"
 slides:
   link: https://docs.google.com/presentation/d/16oaFWbDXew0gfmoCCTAzWqXcnb-cQdWIEYja_rkpbvc/edit?usp=sharing
   released: false
-readings_released: false
 ---
 
-**Please fill out [Weekly Survey 03][l03_form] by Monday 1/30 at 11:59 PM.**
+**Please fill out [Weekly Survey 03]({{page.survey}}) by Monday 1/30 at 11:59 PM.**
 
 Readings:
 
@@ -19,5 +20,3 @@ Readings:
 * Recommended: MacMillan, Anderson, ["Student tracking, secret scores: How college admissions offices rank prospects before they apply"](https://www.washingtonpost.com/business/2019/10/14/colleges-quietly-rank-prospective-students-based-their-personal-data/), 2019. Washington Post.
 * Extra 1: Rachels, ["Why Privacy Is Important"](https://www.jstor.org/stable/2265077?seq=1), 1975. JSTOR.
 * Extra 2: Hill, ["A Dad Took Photos of His Naked Toddler for the Doctor. Google Flagged Him as a Criminal."](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html), 2022. New York Times. (references child abuse).
-
-[l03_form]: https://docs.google.com/forms/d/e/1FAIpQLSe5aLV2vMQYTtLfkO2zqwFq7bqyehcjYXZf_moWoyLuIvhsaQ/viewform?usp=sf_link

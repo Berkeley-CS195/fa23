@@ -32,15 +32,20 @@ Jump on this page:
 
 ## Projects Table of Contents
 
-|       | Projects | Estimated duration | Project Due  | Links                    |
-| ----- | ------ | ----- | --- |
-| 1     | Social Media Simulation | 1-2 weeks | Fri 2/24 | [link][proj1]      |
-| 2     | Teaching Computing in Society | ~3 weeks | Fri. 3/24 | [link][proj2]      |
-| 3     | Technology and the Community   | ~4 weeks | Fri. 4/28 | [link][proj3]      |
+{% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == true" %}
+{% assign assignments = assignments | sort: 'index' %}
 
-[proj1]: assignments/h195-proj1
-[proj2]: assignments/h195-proj2
-[proj3]: assignments/h195-proj3
+|  | Project  | Project<br/>Released | Project<br/>Due | Assignment<br/>Specification |
+| ----- | ------ | ----- | --- | --- |
+{% for a in assignments -%}
+  | {{a.short_title}} | {{a.title}} | {{a.date.release | date: "%a %m/%d"}} | {{ a.date.due | date: "%a %m/%d" }} |
+  {%- if a.released -%}
+    [link]({{ a.url }})
+  {%- else -%}
+    link
+  {%- endif -%}
+  |
+{% endfor %}
 
 ***
 

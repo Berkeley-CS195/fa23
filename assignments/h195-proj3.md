@@ -1,9 +1,14 @@
 ---
 layout: page
-released: true
-title: Project 3
-proposaldue: Wednesday 4/19
-presentationdue: 4/28
+is_h195: true
+released: false
+date:
+  release: 2023-10-26
+  checkpoint1: 2023-11-02
+  checkpoint2: 2023-11-16
+  due: 2023-11-30
+index: 3
+title: Technology and the Community
 ---
 
 <cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
@@ -11,10 +16,13 @@ presentationdue: 4/28
 ## Timeline
 
 1. Topic Brainstorming + Group Selection. [link](#1-topic-and-project-selection)
-: **Due {{page.topicdue}}, 11:59 PM PT**, activity during discussion
+: activity during {{ page.release | date: "%a %m/%d" }} discussion
 
 2. Proposal. [link](#2-proposal)
-: **Due {{page.proposaldue}}, 11:59 PM PT**
+: **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
+
+3. Checkpoint
+: Meet with TAs by **{{ page.date.checkpoint2 | date: "%a %m/%d" }}**.
 
 3. Presentation. [link](#3-presentation)
 : TBD, either {{page.presentationdue}} in extended section or early RRR

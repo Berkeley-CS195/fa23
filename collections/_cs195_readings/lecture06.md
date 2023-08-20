@@ -2,19 +2,21 @@
 layout: cs195-reading
 date: 2023-09-27
 number: "06"
-title: Silicon Valley
+title: Silicon Valley and the U.S.
+readings_released: false
+survey: "https://docs.google.com/forms/d/e/1FAIpQLSfFnrAKMFN8T8Hp0-eKu1cEms5RYLKsThZFXWlY768uQ6jYyw/viewform"
 slides:
   link: "https://docs.google.com/presentation/d/1ul27SmS9Et6nHYsMp4zlcBAhT3TpnhDjYAu9X8gyCgU/edit"
   released: false
-readings_released: false
 ---
 
-**Fill out [this survey][l06_form] by Monday 02/20 at 11:59 PM.**
+**Fill out [this survey]({{page.survey}}) by Monday 02/20 at 11:59 PM.**
 
-* Recommended: The New Yorker, ["Ivermectin, the Crate Challenge, and the Danger of Runaway Memes"](https://www.newyorker.com/culture/infinite-scroll/ivermectin-the-crate-challenge-and-the-danger-of-runaway-memes), 2021.
-* Recommended: The New Yorker, ["Why Facts Don't Change Our Minds"](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds), 2017. (trigger warning: suicide)
-* Extra: CGP Gray, YouTube, ["This Video Will Make You Angry"](https://www.youtube.com/watch?v=rE3j_RHkqJc)
-* Extra: Heath, Bell, Sternberg, 2001. ["Emotional selection in memes: the case of urban legends"](https://psycnet.apa.org/record/2001-05428-005) (requires Berkeley VPN)
-* Extra: Shullenberger, 2016. ["Mimesis, Violence, and Facebook: Peter Thiel's French Connection"](https://thesocietypages.org/cyborgology/2016/08/13/mimesis-violence-and-facebook-peter-thiels-french-connection-full-essay/) (very weird/questionable read, but interesting)
+* **Required**: NPR. [Surveillance And Local Police: How Technology Is Evolving Faster Than Regulation](https://www.npr.org/2021/01/27/961103187/surveillance-and-local-police-how-technology-is-evolving-faster-than-regulation), 2021.
+* **Required**: BBC News ["Microsoft says error caused 'Tank Man' Bing censorship"](https://www.bbc.com/news/world-asia-57367100), 2021.
+* Recommended: FreedomHouse, ["Countering an Authoritarian Overhaul of the Internet"](https://freedomhouse.org/report/freedom-net/2022/countering-authoritarian-overhaul-internet), 2022.
+  * Skim Key Findings and Introduction; stop before Tracking the Global Decline
+* Extra: Kayyali, ["FBI's "Suicide Letter" to Dr. Martin Luther King, Jr., and the Dangers of Unchecked Surveillance"](https://www.eff.org/deeplinks/2014/11/fbis-suicide-letter-dr-martin-luther-king-jr-and-dangers-unchecked-surveillance), 2014.
+* Extra: Google Blog. ["A new approach to China"](https://googleblog.blogspot.com/2010/01/new-approach-to-china.html), 2010.
+* Extra: 1A podcast. ["Know It All: AI and Police Surveillance"](https://the1a.org/segments/know-it-all-facial-recognition-and-ai-in-police-surveillance/), 2023. Click on "Trancsript" to expand transcript as needed.
 
-[l06_form]: https://docs.google.com/forms/d/e/1FAIpQLSfFnrAKMFN8T8Hp0-eKu1cEms5RYLKsThZFXWlY768uQ6jYyw/viewform

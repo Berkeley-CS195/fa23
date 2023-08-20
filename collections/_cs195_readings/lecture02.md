@@ -4,12 +4,13 @@ date: 2023-08-30
 number: "02"
 title: Social Connection and Time Well-Spent
 readings_released: false
+survey: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link
 slides:
   link: https://docs.google.com/presentation/d/1mZ7AQFgbzLHIU5gjewKvjtAzw_pUUJGDbFBryMY6DSU/edit?usp=sharing
   released: false
 ---
 
-**Please fill out the [Weekly Survey 02][l02_form] by Monday 01/23 11:59pm PT.**
+**Please fill out the [Weekly Survey 02]({{page.survey}}) by Monday 01/23 11:59pm PT.**
 
 Readings:
 
@@ -20,5 +21,3 @@ Readings:
 * Extra 1: ["How TikTok Holds Our Attention"](https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention)
 * Extra 2: ["Tristan Harris: How better tech could protect us from distraction"](https://www.ted.com/talks/tristan_harris_how_better_tech_could_protect_us_from_distraction/up-next)
 * Extra: ["Lil B - The Age Of Information MUSIC VIDEO DIRECTED BY LIL B"](https://www.youtube.com/watch?v=corY-FZAZog)
-
-[l02_form]: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link

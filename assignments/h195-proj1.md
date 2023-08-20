@@ -1,12 +1,18 @@
 ---
 layout: page
-released: true
-title: Project 1
+is_h195: true
+released: false
+date:
+  release: 2023-08-31
+  due: 2023-09-14
+index: 1
+title: Social Media Simulation
 ---
 
 ## Timeline
 
-**Due Friday 2/24, 11:59 PM PT**
+Assignment Submission
+: **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
 - [Python 3 code](https://web.stanford.edu/class/archive/cs/cs182/cs182.1214/assignments/SocialNetworkSimulation-py.zip)
 - [Assignment PDF](https://web.stanford.edu/class/archive/cs/cs182/cs182.1214/handouts/Assignment-SocialNetworkSimulation.pdf)

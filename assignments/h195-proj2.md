@@ -1,19 +1,26 @@
 ---
 layout: page
-released: true
-title: Project 2
+is_h195: true
+released: false
+date:
+  release: 2023-09-21
+  checkpoint1: 2023-09-28
+  checkpoint2: 2023-10-05
+  due: 2023-10-12
+index: 2
+title: Teaching Computing in Society
 ---
 
 ## Timeline
 
 Topic Selection
-: **Due Friday 3/10, 11:59 PM PT**
+: **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
 Readings Selection + Activity Pilot
-: **Due Friday 3/17, 11:59 PM PT**
+: **Due {{ page.date.checkpoint2 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
 Lesson Plan, Slides, Presentation
-: **Due Friday 3/24, 3:59 PM PT** (this due date is before discussion)
+: **Due {{ page.date.due | date: "%a %m/%d" }}, 2:00pm** at (bCourses link TBD). This due date is before discussion!
 
 ## Overview
 
