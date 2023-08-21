@@ -12,7 +12,6 @@ date:
   peer: 2023-11-08
 has_proposal: false
 due_date: 2023-11-01
-has_peer_review: true
 index: 2
 title: Computing in the News 2
 has_toc: true

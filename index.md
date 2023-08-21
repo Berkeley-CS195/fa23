@@ -37,7 +37,7 @@ See the [Syllabus](syllabus) for essay grading details. All deadlines are {{site
 |-------|--------------------|---------------------|---------------------| ---- |
 {% for a in assignments -%}
   | {{a.index}} | {{ a.date.due | date: "%a %m/%d" }} |
-  {%- if a.has_peer_review -%}
+  {%- if a.has.peer -%}
     {{ a.date.peer | date: "%a %m/%d" }}
   {%- endif -%}
   |
