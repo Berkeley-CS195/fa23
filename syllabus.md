@@ -26,8 +26,17 @@ sociology, philosophy, economics, public policy, etc.
 * If you are looking to enroll in this course but do not meet
 EECS department enrollment categories, please make a private post on Ed.
 
-**CS H195** is a 3-unit class with the following expectations:
+**CS H195** discussions complement and supplement the topics presented in CS 195
+lecture series. Students are expected to engage at a deeper level with the
+assigned weekly readings and be prepared to engage in thoughtful and
+constructive discussions around the course material. Where applicable, we will
+invite guest speakers from industry and academia to present their work and to
+participate in discussions alongside students. CS H195 will encourage students
+to go beyond thinking about computer technology as solely an engineering
+problem but instead viewing it holistically from the perspective of social
+sciences, legal studies, policymaking, equity, and inclusion.
 
+CS H195 is a 3-unit class with the following expectations:
 * In addition to CS 195 lecture, you attend 90-minute in-person discussion sections led by a GSI, once weekly.
 * You will actively discuss each CS 195 topic in more depth.
 * You will work on interesting projects / papers that replace the usual CS 195 assignments.
