@@ -4,8 +4,6 @@ released: true
 title: ""
 ---
 
-**The website for Fall 2023 is under development. Material on these pages may be out of date.**
-
 ## Schedule of Topics
 {% assign readings = site.cs195_readings | sort: 'date' %}
 

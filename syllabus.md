@@ -5,8 +5,6 @@ title: Syllabus
 toc: true
 ---
 
-**The website for Fall 2023 is under development. Material on these pages may be out of date.**
-
 * [Course Descriptions and Enrollment](#course-descriptions-and-enrollment)
 * [Staff Contact](#staff-contact)
 * [Course Components and Grading](#course-components-and-grading)
@@ -55,7 +53,7 @@ If you need to contact the course staff for personal reasons, we can be reached 
 
 ## Course Components and Grading
 
-The course is graded P/NP. The reason for that policy is to ensure that you can
+CS 195 is graded P/NP. The reason for this policy is to ensure that you can
 feel free to express opinions that are different from those of the instructors,
 both in class meetings and in written work.
 
@@ -99,8 +97,8 @@ Readings for each week will be released one week before each next class (or ther
 
 To complete a QQC+,
 * Post a question, quote, or comment on the associated Ed megapost for a reading.
-  * **Question**: Make a new thread with your question and any needed context/follow-up. You should include the text [Question] at the beginning of your post.
-  * **Quote**: Make a new thread with your quote from the reading and any additional context/follow-up. You should include the text [Quote] at the beginning of your post.
+  * **Question**: Make a new thread with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
+  * **Quote**: Make a new thread with a quote from the reading, and your comment/reaction to that quote. You should include the text [Quote] at the beginning of your post.
   * **Comment**: Post a response on *someone else*'s thread.
 * In addition, make a Comment on *someone else*'s thread in the associated Ed megapost for a reading.
 * It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
@@ -112,7 +110,7 @@ To receive full credit for each set of lecture readings, you must do two things:
     * A QQC+ could consist of one Question (or Quote) on one required reading _and_ one Comment on a different recommended reading.
     * Or, a QQC+ could consist of two Comments on the same required (or recommmended) reading. These Comments can be in the same thread.
 
-Grading:
+<b>QQC+ Grading</b>:
   * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
   * You *should* post in the **Ed megapost** that course staff create for each reading.
   * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 

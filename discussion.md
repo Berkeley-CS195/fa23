@@ -7,9 +7,8 @@ title: "CS H195: Honors Social Implications of Computer Technology"
 Jump on this page:
 
 - CS H195 Syllabus: [link](#cs-h195-syllabus)
-- Discussions, Readings, and Resources: [link](#cs-h195-resources)
-
-## Readings Table of Contents
+- Projects: [link](#projects)
+- CS H195 Weekly Readings and Journal Entries: [link](#cs-h195-readings-and-journal-entries)
 
 {% assign readings = site.csH195_discussions | sort: 'date' %}
 
@@ -30,7 +29,7 @@ Jump on this page:
   {%- endif %}
 {% endfor %}
 
-## Projects Table of Contents
+## Projects
 
 {% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == true" %}
 {% assign assignments = assignments | sort: 'index' %}
@@ -57,18 +56,22 @@ Jump on this page:
 
 - Attend most <b>CS 195 lectures</b>,
 - Be present at all <b>CS H195 discussions</b>,
-- Submit all <b>CS 195/H195 reading assignments and surveys</b>, and
+- Complete all <b>CS 195/H195 readings</b> and <b>CS 195 surveys</b>,
+- Keep your <b>QQC journal</b> up-to-date with <b>all CS 195/H195 readings and H195 additional journal entries</b>, and
 - Complete passing work on all <b>CS H195 projects</b>.
 
-**Course Policies**: We understand things come up during the semester and
+**QQC Document**: QQC for CS H195 is different from QQC for CS 195. We have time for discussing the readings in section, so instead of posting on Ed you will jot down notes about your readings in a running QQC document to prepare for class discussion. See the QQC document page for more details.
+
+**Grading Policy**: 
+We understand things come up during the semester and
 synchronous participation may not always be possible. This course is P/NP, and
 we will make every effort to work with you to help you pass this course.
 
-- CS 195 lecture and survey completion will be graded according to CS 195 course policies (see sidebar).
-- Attendance is expected at every CS H195 discussion. If you need to miss any, we'd appreciate early notice so we can assign you make up work.
-  - Weeks 1 and 2: Because of beginning of semester class shuffling, we did not take Week 1 attendance. However, we expect you to do the readings and submit them a week from when you first start attending H195 discussions.
-- Projects 1 and 2 are individual work; Project 3 is group work. Projects 2 and 3 have in-class presentations.
+CS 195 lecture attendance and CS195 survey completion will be graded according to [CS195 course policies](syllabus). Attendance is expected at every CS H195 discussion. If you need to miss any, we'd appreciate early notice so we can assign you make up work.
 
+**Accessing Readings**: You do not need to purchase any books for this course; most are available either openly or via the library.
+To use the online UC Berkeley Library: Visit [https://search.library.berkeley.edu/](https://search.library.berkeley.edu/) and authenticate with CalNet. Then search for <b>online access</b> to the book you are searching for. Alternatively, use the [Library proxy bookmarklet](https://guides.lib.berkeley.edu/ezproxy/browser-bookmarklet), which works well for academic papers.
+If access is not available through the Library, then we will provide additional links as needed.
 
 <!--
 Intead of the CS 195 essays, this semester we are building new H195 project assignments.
@@ -98,11 +101,11 @@ do you want to participate in?
 
 ***
 
-## CS H195 Resources
+## CS H195 Readings and Journal Entries
 
 {% for r in readings reversed %}
   {%- if r.readings_released -%}
-    <hr>
     {{- r -}}
+    <hr>
   {%- endif %}
 {% endfor %}
