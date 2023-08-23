@@ -16,7 +16,7 @@ Readings:
 * Introduction and Chapter 1. bell hooks, <i>Teaching to Transgress: Education as the Practice of Freedom</i>. 1994. Available via [EBSCOhost Ebooks](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=732033&site=ehost-live&ebv=EB&ppid=pp_13).
 
 QQC Journal:
-- Start your QQC journal and submit as a Google Doc link on bCourses.
+- Start your [QQC journal]({{site.baseurl}}assignments/h195-proj1) and submit as a Google Doc link on bCourses.
   - Include your QQCs for the Week 2 CS195 readings and CSH195 readings.
   - Include an **Additional Journal Entry**:
 

@@ -21,7 +21,10 @@ To start, create and share a Google document with the instructor and TA(s), and 
 
 ## Document Format
 
-* Google doc name: “QQC Doc: Given_name Surname” – replace Given_name Surname with your name such that it can be matched to your name in the gradebook.
+To start, create and share a Google document with the instructors, and submit it via the bCourses assignment. This should be done during the first class.
+
+* To make things easier here is a Google doc template. Clicking on [this link](https://docs.google.com/document/d/1G1onHxLNQz5iFWvwdUYCb0lVZItJSElk16_vzgqRHC8/copy){: target="_blank"} will prompt you to make a copy of the Google doc. Be sure to make one such that it is shared with your UC Berkeley account.
+* Google doc name: “CS H195 QQC Doc: Given_name Surname” – replace Given_name Surname with your name such that it can be matched to your name in the gradebook.
 * Contents for each discussion section:
   * Header for each Discussion date with format "Heading 1" so it appears in the document outline.
   * Contents for each reading due by this Discussion date:
