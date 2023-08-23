@@ -91,10 +91,13 @@ There will be periodic surveys throughout the semester, announced during class a
 
 ## Readings / QQC+
 
-Readings for each week will be released one week before each next class (or thereabouts). **Please finish the readings before class!**
+Readings for each week will be released the Friday before each next class (or thereabouts). **Please finish the readings before class!**
 
 **QQC+, or Question, Quote and Comment(s)**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
+The gist: Each week, before class, for each required reading, you will post three questions, quotes, or comments to a class discussion post. More submission details this Friday 8/25 when we release the first set.
+
+<!--
 To complete a QQC+,
 * Post a question, quote, or comment on the associated Ed megapost for a reading.
   * **Question**: Make a new thread with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
@@ -116,6 +119,7 @@ To receive full credit for each set of lecture readings, you must do two things:
   * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 
   * "Heart"s on other student posts are encouraged but unfortunately do not count for credit (we have no way of tracking hearts).
   * **Deadline**: You should complete the QQC+ for a lecture prior to the lecture itself. See the Accommodations and Late Policy [section below](#accommodations-and-late-policy) for more details.
+  -->
 
 We'll do our best to release grades for the first set of QQC+s early, so that you can understand the grading scheme and update and/or correct your QQC+ submissions.
 

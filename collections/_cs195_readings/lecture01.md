@@ -6,8 +6,8 @@ title: Free Speech
 readings_released: true
 survey: "https://docs.google.com/forms/d/e/1FAIpQLSewDuT16aM1X-ZeMVZbxtNLXlBH8inuHwqoxJDaKrXqT56_zQ/viewform?usp=sf_link"
 slides:
-  link: https://docs.google.com/presentation/d/1bUwt_QM4ZSAIYGSUVnQMMGD0TYs-DgMHCXgEnOk7K3E/edit?usp=sharing
-  released: false
+  link: https://docs.google.com/presentation/d/1PQPiwXUS8AHaLtZ3r3o0ikr9_aayGU8EpSyrxqVKPpg/edit?usp=sharing
+  released: true
 ---
 
 **Survey**: Please fill out the [welcome form]({{page.survey}}) ideally by the first day of class; otherwies by Friday 8/25 11:59pm PT.
