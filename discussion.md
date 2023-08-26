@@ -27,6 +27,7 @@ Jump on this page:
   {%- else -%}
     jump
   {%- endif %}
+  |
 {% endfor %}
 
 ## Projects
