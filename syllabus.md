@@ -8,7 +8,7 @@ toc: true
 * [Course Descriptions and Enrollment](#course-descriptions-and-enrollment)
 * [Staff Contact](#staff-contact)
 * [Course Components and Grading](#course-components-and-grading)
-  * [Readings / QQC+](#readings--qqc)
+  * [Readings / QQCR](#readings--qqcr)
 * [Accommodations and Late Policy](#accommodations-and-late-policy)
 * [Academic Integrity](#academic-integrity)
 
@@ -63,20 +63,16 @@ In order to receive a passing grade in CS 195, you must complete the following:
 | --- | --- | --- |
 | Lectures      | [link](#lectures) | Attend at least 10 out of 13 lectures (excludes Lecture 01). | 
 | Surveys | [link](#surveys) | Complete all course surveys (~4 in the semester). |
-| Readings / QQC+    | [link](#readings--qqc) | Submit a QQC+ on each set of lecture readings. |
+| Readings / QQCR    | [link](#readings--qqcr) | Submit a QQCR on each set of lecture readings. |
 | Essays | [link](#essays) | Submit two Computing in the News essays that receive passing peer review grades. Also, provide 3 peer review essays for each essay. |
 
 ## Lectures
 
-Lecture will be each {{ site.lecture_time }} in-person in {{ site.lecture_room }}.
-<!--hybrid in the Physics Building 1 (Physics 1) with a Zoom simulcast.
-Participation will be expected for both in-person and Zoom students. 
-We'll make it work.
--->
+Lecture will be each {{ site.lecture_time }} hybrid in {{ site.lecture_room }} with a Zoom simulcast. Participation will be expected for both in-person and Zoom students.
 
 Lecture is going to be a mix of presentations, students asking questions, small group discussion, and class-wide debriefing. Participation will be expected.
 
-Attendance will be taken in class and is required. <!--[either online or in-person].-->
+Attendance will be taken in class and is required either online or in-person.
 You cannot have a time conflict. The lecture is the vast majority of the
 experience of the class.
 There will *not* be after-the-fact recordings posted.
@@ -89,39 +85,37 @@ There will be periodic surveys throughout the semester, announced during class a
 * Mid-semester survey
 * End-of-semester survey (note: this is separate from campus course evaluations)
 
-## Readings / QQC+
+## Readings / QQCR
 
 Readings for each week will be released the Friday before each next class (or thereabouts). **Please finish the readings before class!**
 
-**QQC+, or Question, Quote and Comment(s)**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
+**QQCR, or Question, Quote and Comment(s)**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
 The gist: Each week, before class, for each required reading, you will post three questions, quotes, or comments to a class discussion post. More submission details this Friday 8/25 when we release the first set.
 
-<!--
-To complete a QQC+,
+To complete a QQCR,
 * Post a question, quote, or comment on the associated Ed megapost for a reading.
   * **Question**: Make a new thread with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
   * **Quote**: Make a new thread with a quote from the reading, and your comment/reaction to that quote. You should include the text [Quote] at the beginning of your post.
   * **Comment**: Post a response on *someone else*'s thread.
-* In addition, make a Comment on *someone else*'s thread in the associated Ed megapost for a reading.
+  * **Reply**: Make a response on *someone else*'s thread in the associated Ed megapost for a reading.
 * It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
 
 To receive full credit for each set of lecture readings, you must do two things:
-  * (1) You must make _at least one of_ a Question, Quote, or Comment on the associated Ed megapost for one of the required or recommended readings.
-  * (2) You must _also_ make a Comment on someone else's thread on one of the associated Ed megapost for one of the required or recommended readings (this is what the "+" in "QQC+" symbolizes).
-  * Note: (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended." QQC+s made for "Extra" readings do not count for course credit. For example:
-    * A QQC+ could consist of one Question (or Quote) on one required reading _and_ one Comment on a different recommended reading.
-    * Or, a QQC+ could consist of two Comments on the same required (or recommmended) reading. These Comments can be in the same thread.
+* (1) You must make _four_ of a Question, Quote, Comment, Reply on the associated Ed megapost for one of the required or recommended readings.
+* (2) You must _also_ make a Reply on someone else's thread on one of the associated Ed megapost for one of the required or recommended readings
+* Note: (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended." QQCRs made for "Extra" readings do not count for course credit. For example:
+    * A QQCR could consist of one Question (or Quote) on one required reading _and_ one Comment on a different recommended reading.
+    * Or, a QQCR could consist of two Comments on the same required (or recommmended) reading. These Comments can be in the same thread.
 
-<b>QQC+ Grading</b>:
+<b>QQCR Grading</b>:
   * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
   * You *should* post in the **Ed megapost** that course staff create for each reading.
   * You *should not* make private or separate public Ed posts. Doing so will not earn credit. Early on, we might make an effort to merge your posts to the respective Ed megapost, but ultimately you are responsible for moving your posts to the megapost. 
   * "Heart"s on other student posts are encouraged but unfortunately do not count for credit (we have no way of tracking hearts).
-  * **Deadline**: You should complete the QQC+ for a lecture prior to the lecture itself. See the Accommodations and Late Policy [section below](#accommodations-and-late-policy) for more details.
-  -->
+  * **Deadline**: You should complete the QQCR for a lecture prior to the lecture itself. See the Accommodations and Late Policy [section below](#accommodations-and-late-policy) for more details.
 
-We'll do our best to release grades for the first set of QQC+s early, so that you can understand the grading scheme and update and/or correct your QQC+ submissions.
+We'll do our best to release grades for the first set of QQCRs early, so that you can understand the grading scheme and update and/or correct your QQCR submissions.
 
 
 ## Essays
@@ -145,7 +139,7 @@ Ed in advance so we can provide you with details.
 
 **Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion as needed. To request a reopening, please make a private post on Ed.
 
-**Readings/QQC+**: We prefer that you complete each QQC+ by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQC+s.
+**Readings/QQCR**: We prefer that you complete each QQCR by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQCRs.
 
 **Essays**: *As of now there are no plans to offer makeup essays.* While we do
 not want this 1-unit seminar to stress you out, please also understand that
@@ -166,6 +160,6 @@ The student community at UC Berkeley has adopted the following Honor Code: "As a
 **Turnitin**:
 As a tool to promote academic integrity in this course, Turnitin will be used to check essays for originality. Turnitin takes assignments submitted through bCourses and compares them to a database of books, journal articles, websites, and other student papers. This creates an opportunity for you to improve your academic writing skills by ensuring that your sources have been properly cited and attributed. Turnitin can also help you gauge how much of your essay represents your own thinking and language. Please note that a low “Similarity Index” score does not necessarily indicate that the essay in question is without academic integrity issues. For more information on Turnitin see: [UC Berkeley Turnitin Page](https://rtl.berkeley.edu/services-programs/academic-integrity), [Students Getting Started](https://rtl.berkeley.edu/services-programs/academic-integrity/students-get-started-turnitin)
 
-**ChatGPT**: ChatGPT and other large language model (LLM)-supported software are considered sources of information and should be cited just like any other primary or secondary source. However, an LLM is no more than a tool---and as such, any usage of said tool should be reviewed by you, the human, before submission. In other words, it is alright for you to use LLMs when writing essays or creating QQC+s, but you should include _the prompt and any relevant LLM/chatGPT history_ with your submission. Citation format TBD.
+**ChatGPT**: ChatGPT and other large language model (LLM)-supported software are considered sources of information and should be cited just like any other primary or secondary source. However, an LLM is no more than a tool---and as such, any usage of said tool should be reviewed by you, the human, before submission. In other words, it is alright for you to use LLMs when writing essays or creating QQCRs, but you should include _the prompt and any relevant LLM/chatGPT history_ with your submission. Citation format TBD.
 
 In the essays, there will be an option for you to reflect on the potential pitfalls and challenges of blindly relying on LLM output. Details TBD.
