@@ -23,7 +23,7 @@ Jump on this page:
   {%- endif -%}
   |
   {%- if r.readings_released -%}
-    [jump](#lecture{{ r.number }}) |
+    [jump](#lecture{{ r.number }})
   {%- else -%}
     jump
   {%- endif %}
