@@ -26,7 +26,7 @@ Jump on this page:
     [jump](#lecture{{ r.number }})
   {%- else -%}
     jump
-  {%- endif %}
+  {%- endif -%}
   |
 {% endfor %}
 
