@@ -25,7 +25,7 @@ Jump on this page:
   {%- if r.readings_released -%}
     [jump](#lecture{{ r.number }}) |
   {%- else -%}
-    jump |
+    jump
   {%- endif %}
 {% endfor %}
 
