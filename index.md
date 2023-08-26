@@ -22,6 +22,7 @@ title: ""
   {%- else -%}
     jump
   {%- endif %}
+  |
 {% endfor %}
 
 ## Essays
