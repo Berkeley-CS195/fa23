@@ -95,9 +95,9 @@ The gist: Each week, before class, for each required reading, you will post thre
 
 To complete a QQCR,
 * Post a question, quote, or comment on the associated Ed megapost for a reading.
-  * **Question**: Make a new thread with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
-  * **Quote**: Make a new thread with a quote from the reading, and your comment/reaction to that quote. You should include the text [Quote] at the beginning of your post.
-  * **Comment**: Post a response on *someone else*'s thread.
+  * **Question**: Make a new thread under the megapost with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
+  * **Quote**: Make a new thread under the megapost with a quote from the reading, and your comment/reaction to that quote. You should include the text [Quote] at the beginning of your post.
+  * **Comment**: Make a new thread under the megapost with a comment about the reading. You should include the text [Comment] at the beginning of your post.
   * **Reply**: Make a response on *someone else*'s thread in the associated Ed megapost for a reading.
 * It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
 
