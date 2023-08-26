@@ -40,7 +40,7 @@ CS H195 is a 3-unit class with the following expectations:
 * You will work on interesting projects / papers that replace the usual CS 195 assignments.
 * If interested, please fill out the interest form listed on the
 [Course Catalog](https://classes.berkeley.edu/content/2023-fall-compsci-h195-001-lec-001).
-* **Course applications for H195 are due Wednesday 8/30 11:59pm PT.**
+* **Course applications for H195 are due {{site.h195_apps_due}}.**
 * The [discussion page](discussion) has the discussion schedule and syllabus.
 
 ## Staff Contact
