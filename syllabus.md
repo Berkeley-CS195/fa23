@@ -91,8 +91,6 @@ Readings for each week will be released the Friday before each next class (or th
 
 **QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
-The gist: Each week, before class, for each required reading, you will post three questions, quotes, or comments to a class discussion post. More submission details this Friday 8/25 when we release the first set.
-
 To complete a QQCR,
 * Post a question, quote, or comment on the associated Ed megapost for a reading.
   * **Question**: Make a new thread under the megapost with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
@@ -102,11 +100,11 @@ To complete a QQCR,
 * It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
 
 To receive full credit for each set of lecture readings, you must do two things:
-* (1) You must make _four_ of a Question, Quote, Comment, Reply on the associated Ed megapost for one of the required or recommended readings.
-* (2) You must _also_ make a Reply on someone else's thread on one of the associated Ed megapost for one of the required or recommended readings
-* Note: (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended." QQCRs made for "Extra" readings do not count for course credit. For example:
-    * A QQCR could consist of a mix of Questions, Quotes, Comments, and Replies on different recommended readings.
-    * Or, a QQCR could consist of five Replies on the same required (or recommmended) reading. These Replies can be in the same thread.
+* (1) You must make **four** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
+* (2) You must **also** make a Reply on someone else's thread on one of the associated Ed megapost(s) for one of the required or recommended readings
+* (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended" for that week. QQCRs made for "Extra" readings do not count for course credit. For example:
+    * A QQCR could consist of a mix of three Questions on one required reading, and two Replies on a different recommended reading.
+    * Or, a QQCR could consist of five Replies on the same recommended reading. These Replies can be in the same thread.
 
 <b>QQCR Grading</b>:
   * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
