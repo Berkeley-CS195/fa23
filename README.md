@@ -2,6 +2,7 @@ cs195-fa23
 =====
 
 Website and public materials for UC Berkeley CS 195
+test
 
 Publishing
 ----------
