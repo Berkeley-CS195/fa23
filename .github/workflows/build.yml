@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to Pages
+name: Run build
 
 on:
   pull_request:
