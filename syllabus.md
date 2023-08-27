@@ -102,7 +102,7 @@ To complete a QQCR,
 To receive full credit for each set of lecture readings, you must do two things:
 * (1) You must make **four** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
 * (2) You must **also** make a Reply on someone else's thread on one of the associated Ed megapost(s) for one of the required or recommended readings
-* (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended" for that week. QQCRs made for "Extra" readings do not count for course credit. For example:
+* (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended" for that week. QQCRs made for "Extra" or "Optional" readings do not count for course credit. For example:
     * A QQCR could consist of a mix of three Questions on one required reading, and two Replies on a different recommended reading.
     * Or, a QQCR could consist of five Replies on the same recommended reading. These Replies can be in the same thread.
 
