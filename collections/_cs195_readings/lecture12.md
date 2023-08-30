@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-11-08
 number: "12"
-title: "[guest] Government Censorship and Surveillance"
+title: "Silicon Valley and the U.S."
 readings_released: false
 survey: https://docs.google.com/forms/d/e/1FAIpQLSf_ggjcQy_tSKw_sgeKkX00N3zkAyTVhotDWa81kk54kL3bVA/viewform
 slides:

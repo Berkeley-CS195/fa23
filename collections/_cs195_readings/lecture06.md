@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-09-27
 number: "06"
-title: Silicon Valley and the U.S.
+title: "[Victoria Robinson] Government Censorship and Surveillance"
 readings_released: false
 survey: "https://docs.google.com/forms/d/e/1FAIpQLSfFnrAKMFN8T8Hp0-eKu1cEms5RYLKsThZFXWlY768uQ6jYyw/viewform"
 slides:

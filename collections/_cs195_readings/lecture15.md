@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-11-29
 number: "15"
-title: "TBD"
+title: "TBD / Closing"
 survey: https://docs.google.com/forms/d/e/1FAIpQLSc1H60shHyrhcZcLRR_Be_xr5ldO4FYSq97O16fUcwmglEonA/viewform
 slides:
   link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
