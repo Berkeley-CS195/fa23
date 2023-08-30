@@ -6,8 +6,8 @@ title: Social Connection and Time Well-Spent
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSeG_KX6C8zXpvPlZGMO6hlaa4nCjTo-JCYhvTyIvVLQgQy6fQ/viewform?usp=sf_link
 slides:
-  link: https://docs.google.com/presentation/d/1mZ7AQFgbzLHIU5gjewKvjtAzw_pUUJGDbFBryMY6DSU/edit?usp=sharing
-  released: false
+  link: https://docs.google.com/presentation/d/1Y9yfI-sqBEhVURRQDmsIh23PcFKJx100CFmW98mYjj0/edit?usp=sharing
+  released: true
 ---
 
 <!--**Please fill out the [Weekly Survey 02]({{page.survey}}) by Monday 01/23 11:59pm PT.**-->
