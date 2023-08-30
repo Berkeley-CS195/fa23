@@ -92,7 +92,7 @@ Readings for each week will be released the Friday before each next class (or th
 **QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
 
 To complete a QQCR,
-* Post a question, quote, or comment on the associated Ed megapost for a reading.
+* Post a question, quote, comment, or reply on the associated Ed megapost for a reading.
   * **Question**: Make a new thread under the megapost with a question about the reading and any needed context for others to follow up. You should include the text [Question] at the beginning of your post.
   * **Quote**: Make a new thread under the megapost with a quote from the reading, and your comment/reaction to that quote. You should include the text [Quote] at the beginning of your post.
   * **Comment**: Make a new thread under the megapost with a comment about the reading. You should include the text [Comment] at the beginning of your post.
