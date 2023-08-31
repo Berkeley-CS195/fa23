@@ -89,7 +89,7 @@ There will be periodic surveys throughout the semester, announced during class a
 
 Readings for each week will be released the Friday before each next class (or thereabouts). **Please finish the readings before class!**
 
-**QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion.
+**QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion. (Updated 9/30 to reduce workload.)
 
 To complete a QQCR,
 * Post a question, quote, comment, or reply on the associated Ed megapost for a reading.
@@ -98,13 +98,16 @@ To complete a QQCR,
   * **Comment**: Make a new thread under the megapost with a comment about the reading. You should include the text [Comment] at the beginning of your post.
   * **Reply**: Make a response on *someone else*'s thread in the associated Ed megapost for a reading.
 * It is OK for you to post anonymously, meaning your name will be anonymous to fellow classmates but visible to course staff (who will use it for tracking assignment credit).
+* See below for grading and community guidelines.
 
 To receive full credit for each set of lecture readings, you must do two things:
-* (1) You must make **four** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
+* (1) You must make <del>four</del> **two** of a Question, Quote, Comment, Reply on the associated Ed megapost(s) for the required or recommended readings.
 * (2) You must **also** make a Reply on someone else's thread on one of the associated Ed megapost(s) for one of the required or recommended readings
+* Restated, you must make <del>five</del> **three** QQCRs *total* on *any* of the required/recommended readings, where one of your QQCRs needs to be a reply.
 * (1) and (2) not need to be on the same reading. However, they should be made on readings listed as "Required" or "Recommended" for that week. QQCRs made for "Extra" or "Optional" readings do not count for course credit. For example:
-    * A QQCR could consist of a mix of three Questions on one required reading, and two Replies on a different recommended reading.
-    * Or, a QQCR could consist of five Replies on the same recommended reading. These Replies can be in the same thread.
+    * A QQCR could consist of a mix of <del>three</del> two Questions on one required reading, and <del>two Replies</del> one Reply on a different recommended reading.
+    * Or, a QQCR could consist of <del>five</del> three Replies on the same recommended reading. These Replies can be in the same thread.
+* See [this Ed post](https://edstem.org/us/courses/43672/discussion/3361878){:target="\_blank"} for clarifications.
 
 <b>QQCR Grading</b>:
   * Again, the main goal of this assignment is to give you a chance to reflect on readings and contribute to discussion. We expect there to be a range of opinions in this classroom. As a result, **one-word posts will not receive credit.** Most other posts will. 
@@ -114,6 +117,8 @@ To receive full credit for each set of lecture readings, you must do two things:
   * **Deadline**: You should complete the QQCR for a lecture prior to the lecture itself. See the Accommodations and Late Policy [section below](#accommodations-and-late-policy) for more details.
 
 We'll do our best to release grades for the first set of QQCRs early, so that you can understand the grading scheme and update and/or correct your QQCR submissions.
+
+<b>Community guidelines</b>: We reserve the rights to delete and/or not award credit or dismiss students from seminar for remarks that promote hate speech, trolling, harrassment, discrimination, or defamation. Serious offenders will be reported directly to both the CS Department Grievances faculty member ([link](https://eecs.berkeley.edu/resources/students/grievances){:target="\_blank"}) and the University [Center for Student Conduct](https://conduct.berkeley.edu/){:target="\_blank"}.
 
 
 ## Essays
