@@ -6,8 +6,8 @@ title: Data Privacy
 readings_released: true
 survey: "https://docs.google.com/forms/d/e/1FAIpQLSe5aLV2vMQYTtLfkO2zqwFq7bqyehcjYXZf_moWoyLuIvhsaQ/viewform?usp=sf_link"
 slides:
-  link: https://docs.google.com/presentation/d/16oaFWbDXew0gfmoCCTAzWqXcnb-cQdWIEYja_rkpbvc/edit?usp=sharing
-  released: false
+  link: https://docs.google.com/presentation/d/1Xm6vlkeppNJOtWBCJnPaGCjJ5iAIeAdsVVIiLAhh4LE/edit?usp=sharing
+  released: true
 ---
 
 Readings:
