@@ -9,6 +9,7 @@ toc: true
 * [Staff Contact](#staff-contact)
 * [Course Components and Grading](#course-components-and-grading)
   * [Readings / QQCR](#readings--qqcr)
+  * [Community Guidelines](#community-guidelines)
 * [Accommodations and Late Policy](#accommodations-and-late-policy)
 * [Academic Integrity](#academic-integrity)
 
@@ -118,7 +119,14 @@ To receive full credit for each set of lecture readings, you must do two things:
 
 We'll do our best to release grades for the first set of QQCRs early, so that you can understand the grading scheme and update and/or correct your QQCR submissions.
 
-<b>Community guidelines</b>: We reserve the rights to delete and/or not award credit or dismiss students from seminar for remarks that promote hate speech, trolling, harrassment, discrimination, or defamation. Serious offenders will be reported directly to both the CS Department Grievances faculty member ([link](https://eecs.berkeley.edu/resources/students/grievances){:target="\_blank"}) and the University [Center for Student Conduct](https://conduct.berkeley.edu/){:target="\_blank"}.
+### Community guidelines
+
+Our classroom environment extends to online spaces like Ed. Be civil and respect others, even those that are not in this course. There are 3 ways for you to address hateful comments and prevent harassment, in order of decreasing emotional labor (the last two do not count towards QQCR):
+- Reply on Ed directly to post.
+- Submit an anonymous report form to course staff: [https://forms.gle/bBmqFwRpk3wxdoXn7](https://forms.gle/bBmqFwRpk3wxdoXn7){:target="\_blank"}.
+- Reply on Ed with “That’s not cool."
+
+Course staff reserve the right to delete and/or not award credit or dismiss students from seminar for remarks that promote hate speech, trolling, harrassment, discrimination, or defamation. Serious offenders will be reported directly to both the CS Department Grievances faculty member ([link](https://eecs.berkeley.edu/resources/students/grievances){:target="\_blank"}) and the University [Center for Student Conduct](https://conduct.berkeley.edu/){:target="\_blank"}.
 
 
 ## Essays
