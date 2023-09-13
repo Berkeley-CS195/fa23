@@ -6,10 +6,10 @@ has:
   proposal: false
   peer: true
 date:
-  due: 2023-09-27
+  due: 2023-10-04
   proposal: 2023-09-27
-  peer_assign: 2023-09-29
-  peer: 2023-10-04
+  peer_assign: 2023-10-06
+  peer: 2023-10-11
 title: Computing in the News 1
 index: 1
 has_toc: true

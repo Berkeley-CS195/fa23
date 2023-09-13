@@ -4,11 +4,13 @@ date: 2023-09-13
 number: "04"
 title: Software Risks and Professional Ethics
 readings_released: true
-survey: https://docs.google.com/forms/d/e/1FAIpQLScw_cLYTiH-jAJQX89pXacjcKeP8qZqSBTdK00gMElQaWbxdA/viewform?usp=sf_link
+survey: https://docs.google.com/forms/d/e/1FAIpQLSeikvY_bchdM3xayZyMZ_P-OToY_EPtHLWDL7f7f0hdWfubyQ/viewform?usp=sf_link
 slides:
-  link: https://docs.google.com/presentation/d/1kl9R4y8-PakLvCJBZHVLMEJpat_-563V0R_bnBVnEcg/edit
-  released: false
+  link: https://docs.google.com/presentation/d/1Ylqi1WLM0171WEyYnQ0l_4qlUypV4kQjMD1C1W86gpY/edit?usp=sharing
+  released: true
 ---
+
+Survey: [link]({{page.survey}})
 
 Readings:
 

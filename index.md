@@ -24,14 +24,14 @@ title: ""
   {%- endif %}
 {% endfor %}
 
-## Essays
+## Assignments
 
 See the [Syllabus](syllabus) for essay grading details. All deadlines are {{site.assignment_time}} Pacific.
 
 {% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == false" %}
 {% assign assignments = assignments | sort: 'index' %}
 
-| Essay | Essay Due           | Peer Reviews Due    | Assignment<br/>Specification |
+| Assignment | Assignment Due           | Peer Reviews Due    | Assignment<br/>Specification |
 |-------|--------------------|---------------------|---------------------| ---- |
 {% for a in assignments -%}
   | {{a.index}} | {{ a.date.due | date: "%a %m/%d" }} |
