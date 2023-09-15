@@ -9,4 +9,4 @@ slides:
 readings_released: false
 ---
 
-TODO
+Introduction, Ch.1-2. Evgeny Morozov, _To Save Everything, Click Here: The Folly of Technology Solutionism_, 2013. PDF to come.

@@ -3,149 +3,111 @@ layout: page
 is_h195: true
 released: false
 date:
-  release: 2023-09-21
-  checkpoint1: 2023-09-28
-  checkpoint2: 2023-10-05
-  due: 2023-10-12
+  release: 2023-10-26
+  checkpoint1: 2023-11-02
+  checkpoint2: 2023-11-16
+  due: 2023-11-30
 index: 2
-title: Teaching Computing in Society
+title: Technology and the Community
 ---
+
+<cite>Adapted from Dr. Cynthia Lee, Stanford University</cite>
 
 ## Timeline
 
-Topic Selection
+1. Topic Brainstorming + Group Selection. [link](#1-topic-and-project-selection)
+: activity during {{ page.release | date: "%a %m/%d" }} discussion
+
+2. Proposal. [link](#2-proposal)
 : **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
-Readings Selection + Activity Pilot
-: **Due {{ page.date.checkpoint2 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
+3. Checkpoint
+: Meet with TAs by **{{ page.date.checkpoint2 | date: "%a %m/%d" }}**.
 
-Lesson Plan, Slides, Presentation
-: **Due {{ page.date.due | date: "%a %m/%d" }}, 2:00pm** at (bCourses link TBD). This due date is before discussion!
+3. Presentation. [link](#3-presentation)
+: TBD, either {{page.presentationdue}} in extended section or early RRR
 
 ## Overview
 
-In this project, you get to design an H195 discussion! You will build a lesson
-plan for a 50-minute discussion for future H195 students to engage critically
-with the *social context* of a particular *computing technology* or *concept*.
-We will provide readings on pedagogical practices.
+This project is (thematically) a continuation of Project 2. You are free to do
+"whatever you want," as it relates to the themes of our class. While Project 2
+focused on a discussion section for students, Project 3's deliverable could
+accomplish some of the following goals for a *<u>community</u>*:
 
-You may do this assignment in pairs.
+- Raise awareness
+- Design an intervention
+- Engage the community in an issue
 
-## Topic Selection
+This project may be (and is encouragedt to be) completed in groups.
 
-The topic can be, broadly, anything that you are interested in as long as it
-has a computing component and a society component.
+## Guidelines on Project Scope
 
-Some of the things that you shared at the beginning of the term in response to
-the question "What do you want to get out of this course?" might be good
-starting points.
+Since we are a 3-unit class and are supposed to have about
+[6 hours of work outside of class per week](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001),
+and this project should occupy your last 1-2 weeks of the class, plan on doing
+something that takes about 9-15 hours. That number should be understood very
+generously--i.e., it's understood to include time spent pondering what you want
+to do for your project, not just time actively typing.
 
-On bCourses, submit a few sentences explaining your chosen computing topic and
-how you plan to draw a connection to society or identity concepts.
-Additionally, please provide a link or citation for one possible pre-reading.
-You aren't obligated to use this pre-reading -- this is just to give me a sense
-of the direction you're planning on going.
+## 1. Topic and Project Selection
 
-For example, if I were to do this assignment, I might design a discussion
-around FOSS (free and open-source software), covering its history and
-sustainability in capitalism, and select the
-[`core-js` README by zloirock][core-js] as a possible pre-reading. If you're
-uncertain whether a topic would be a good fit, please ask!
+In Week 12 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
+possible topics and projects; and possibly form groups.
 
-[core-js]: https://github.com/zloirock/core-js/blob/71ea97c987e793d3c44f4a7cee78dffe17771c05/README.md
+Some past projects from students that have done a similar project at Stanford:
 
-This is due Friday 3/10, 11:59 PM PT.
+- Write a paper gathering and analyzing information about something (e.g., look
+  at the "Diversity" page on the website of major tech companies and analyze
+  what it seems the companies want to communicate or what they want the
+  audience to believe about them; how believable is this in practice?)
+- Create a website with profiles of Stanford CS/engineering students with a
+  variety of backgrounds, sharing their stories and what excites them about tech
+- Make tiktok videos educating teens about issues with search engine and
+  autocomplete results
+- Record a podcast episode talking about your own experience in
+  CS/tech/Berkeley EECS classes, and connecting it to what research says about
+  broader trends in how tech cultures affect individuals
+- Design a PSA about a particular technology, such as the effects it has on your
+  chosen community
+- *Note*: We'd like you to do something that is not a lesson plan, given that Project 2 already engaged with the classroom environment.
 
-### Pedagogy Readings
+## 2. Proposal
 
-Please read the following:
+The project proposal outlines what your project will be and is due via bCourses by {{page.proposaldue}}, 11:59pm. The sections of the
+proposal are as follows:
 
-- [Tools for Teaching][], (p. 97-p.101, PDF 115-119). Read up to and including
-  "Starting a Discussion."
-- [How to Write Learning Outcomes][]
-- [Establish Course-level Learning Objectives][]
-- [5E Lesson Plan][]
-- [Knowledge Integration Environment][]
+1. 1-2 paragraphs (about 500 words) describing the project vision.
+2. Separate list of additional resources or readings, like those on our
+   syllabus, that relate to your project or inform its design. You aren't
+   strictly required to have any, but many projects will have some and it will
+   be good to track them.
+3. (If you worked in a group) A list of the members of your team, and a bullet
+   list breakdown describing
+   what each member is responsible for. (If a team of one, still give a bullet
+   list breakdown of the individual tasks required to complete this project.)
+   Assign a very rough hours estimate to complete each task. This is an
+   opportunity to practice the skill of professionalism in project management.
+   In part that means: please do not be heroic in assigning these estimates.
+   Would it take 10 minutes if everything goes right and you know exactly what
+   to do and how to do it at the outset? That's probably a minimum 1 hour task
+   then, being realistic. Good project managers build in time for fishing about
+   for what to do, re-doing work that was done when there is an unexpected
+   hiccup, etc. That said, professionalism also means not grotesquely "padding"
+   the estimates.
+4. 1-2 paragraphs (about 500 words) describing the main open questions or
+   potential areas of concern on the horizon for this project. This is in part
+   to help you foresee problems for yourselves by stopping to consider this. It
+   is also in part to communicate with us so we can help you address open
+   questions, find additional resources, organize around concerns, etc.
 
-[Tools for Teaching]: https://drive.google.com/file/d/1pisWNHtrfKiBd_8a-vsBuqv0sdK6QB2S/view
-[How to Write Learning Outcomes]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes
-[Establish Course-level learning Objectives]: https://teaching.berkeley.edu/resources/course-design-guide/establish-course-level-learning-objectives
-[5E Lesson Plan]: https://blog.tcea.org/lesson-planning-5e-model/
-[Knowledge Integration Environment]: https://lessonresearch.net/teacher-learning/knowledge-integration/
+## 3. Presentation
 
-## Readings Selection + Activity Pilot
+Target between 7-10 minutes, and cover the following:
 
-1. Select 3-4 readings that students should read prior to discussion that will
-   situate your chosen technology or concept in the context of society. Student
-   readings should take about 1 to 1.5 hours in total, maximum.
+- Project goals. Who were you trying to reach? On what topic? Why?
+- What you did
+- How do you feel about how it went? What is the impact? What are you most
+  proud of about regarding how your project unfolded? How did your project
+  influence others or influence your own views?
 
-   We won't require specific kinds of sources, but please limit yourself to at
-   most two opinion pieces (and at most one from any single group). Additionally,
-   the UC Berkeley library is a good source for accessing possible readings.
-
-2. Design a short "pre-work" activity for students to complete, which should
-   involve about a paragraph of writing.
-
-3. Brainstorm one 25-minute discussion activity to engage the students
-   critically with the social context and implications of your chosen topic.
-   The 25 minutes or so should include all parts (intro, exercise, takeaway/
-   synthesis).
-
-4. Try it out with 3-4 friends! For maximum effect, ask them to skim / do the
-   readings. Then, complete a 1-page writeup that consists of:
-
-   - Your chosen readings
-   - Your chosen pre-work activity
-   - Your activity plan (see [below](#activity-plan))
-   - A reflection on the pilot
-   - Any changes that you plan to make for the final deliverable.
-
-This is due Friday 3/17, 11:59 PM PT.
-
-### Activity Plan
-
-Construct one 25-minute activity where students engage with the social context
-of the computing technology. In your writeup, address the following:
-
-Introduction
-: How will you introduce the discussion section? For example, will you provide
-  any additional context beyond the readings?
-
-Recall Activity (Optional)
-: Pose a question you to get students positioned and warmed up to discuss. It
-  often involves students "recalling" what was in their required readings.
-
-Activity Structure
-: How will you structure the discussion of this question (in small groups,
-  pairs, as a class, a mixture, or something else)? Will you have time to
-  review as a class before or after the activity?
-
-Learning Goal/Outcome
-: Write a sentence for the instructor-facing lesson plan, e.g. "By the end of
-  this activity, students will be able to..." (See [Action Verbs])
-
-Main Takeaway
-: Share the main student-facing takeaway(s) that you will state for students
-  at the activity.
-
-## Presentation
-
-### Slides
-
-Your presentation should be between 7-10 minutes, and cover the following:
-
-Introduction / Contexualization
-: What are the computing topic and social context you are exploring?
-
-Readings
-: What are your readings, and why did you choose each reading?
-
-Activity Plan
-: See above. You should present a slide, or multiple that addresses your
-  activity plan.
-
-Additionally, include a slide with 2-3 "instructor readings," or sources
-that you think an instructor would find useful, but may be too in-depth for a
-student. This slide will not be presented.
-
-[Action Verbs]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes
+We will send out a survey about which presentation date would work best: either {{page.presentationdue}} as an extended section, or early RRR.
