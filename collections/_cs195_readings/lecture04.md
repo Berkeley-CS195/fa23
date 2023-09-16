@@ -10,7 +10,7 @@ slides:
   released: true
 ---
 
-Survey (Ethical Decision Making): [link]({{page.survey}})
+(Optional) Survey on Ethical Decision Making: [link]({{page.survey}})
 
 Readings:
 

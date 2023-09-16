@@ -12,7 +12,10 @@ slides:
 
 <!--**Fill out [this survey]({{survey}}) by Monday 02/13 at 11:59 PM.**-->
 
-* **Required**: Benjamin, [_Race After Technology_: Introduction](https://drive.google.com/file/d/1zW0CJj4J7ZNhSMDGZ4poYXUR4t9K3SVh/view){: target=_blank"}, 2019. 
-* **Optional**: Wu, ["Optimize What?"](https://communemag.com/optimize-what/), 2019.
-* **Optional**: Turner, ["Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers"](https://logicmag.io/justice/fred-turner-dont-be-evil/), 2017.
-* **Optional**: Ian Tucker, ["Evgeny Morozov: We are abandoning all the checks and balances"]( https://www.theguardian.com/technology/2013/mar/09/evgeny-morozov-technology-solutionism-interview), 2013. The Guardian.
+**Required**:
+* Benjamin, [_Race After Technology_: Introduction](https://drive.google.com/file/d/1zW0CJj4J7ZNhSMDGZ4poYXUR4t9K3SVh/view){: target=_blank"}, 2019. 
+
+**Optional**:
+* Wu, ["Optimize What?"](https://communemag.com/optimize-what/), 2019.
+* Turner, ["Don’t Be Evil: Fred Turner on Utopias, Frontiers, and Brogrammers"](https://logicmag.io/justice/fred-turner-dont-be-evil/), 2017.
+* Ian Tucker, ["Evgeny Morozov: We are abandoning all the checks and balances"]( https://www.theguardian.com/technology/2013/mar/09/evgeny-morozov-technology-solutionism-interview), 2013. The Guardian.

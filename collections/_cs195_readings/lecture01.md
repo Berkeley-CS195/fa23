@@ -10,7 +10,7 @@ slides:
   released: true
 ---
 
-**Survey**: Please fill out the [welcome form]({{page.survey}}) ideally by the first day of class; otherwies by Friday 8/25 11:59pm PT.
+**Required Survey**: Please fill out the [welcome form]({{page.survey}}) ideally by the first day of class; otherwies by Friday 8/25 11:59pm PT.
 
 **Attendance**: No lecture attendance will be taken for this lecture, though relevant content will be covered.
 
