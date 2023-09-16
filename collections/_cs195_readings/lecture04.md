@@ -10,7 +10,7 @@ slides:
   released: true
 ---
 
-Survey: [link]({{page.survey}})
+Survey (Ethical Decision Making): [link]({{page.survey}})
 
 Readings:
 
