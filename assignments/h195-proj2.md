@@ -7,7 +7,7 @@ date:
   checkpoint1: 2023-11-02
   checkpoint2: 2023-11-16
   due: 2023-11-30
-index: 2
+index: 3
 title: Technology and the Community
 ---
 

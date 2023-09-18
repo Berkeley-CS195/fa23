@@ -7,7 +7,7 @@ date:
   checkpoint1: 2023-09-28
   checkpoint2: 2023-10-05
   due: 2023-10-12
-index: 1
+index: 2
 title: Teaching Computing in Society
 ---
 

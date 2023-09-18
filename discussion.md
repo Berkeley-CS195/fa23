@@ -32,8 +32,7 @@ Jump on this page:
 
 ## Projects
 
-{% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == true" %}
-{% assign assignments = assignments | sort: 'index' %}
+{% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == true" | sort: 'index' %}
 
 |  | Project  | Project<br/>Released | Project<br/>Due | Assignment<br/>Specification |
 | ----- | ------ | ----- | --- | --- |

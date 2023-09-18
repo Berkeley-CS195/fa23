@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-11-09
 number: "12"
-title: Government Censorship and Surveillance
+title: CS Education
 slides:
   link: "https://docs.google.com/presentation/d/18rfymGxHptdoc0BViVd4DkUqZDh5MOikpLLWpX9a-NE/edit#slide=id.g22e2c70feb3_0_30"
   released: false
