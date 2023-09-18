@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-10-25
 number: "10"
-title: Tech and Labor
+title: "Silicon Valley and the U.S."
 readings_released: false
 survey: https://docs.google.com/forms/d/e/1FAIpQLSeXnL1bpiySy3AULBtNXnAHkN3OWtUAHYf3RmVjGKU6VN2F_Q/viewform
 slides:
