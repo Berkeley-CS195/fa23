@@ -6,7 +6,8 @@ title: Technosolutionism
 slides:
   link: "https://docs.google.com/presentation/d/12Xz6n8e__rgpKIdO3RNIsoS_KsmNeAIpHBHY6mWU-1s/edit#slide=id.g1f165ddcf1e_0_140"
   released: false
-readings_released: false
+readings_released: true
 ---
 
-Introduction, Ch.1-2. Evgeny Morozov, _To Save Everything, Click Here: The Folly of Technology Solutionism_, 2013. PDF to come.
+Readings:
+- Introduction, Ch.1-2. Evgeny Morozov, _To Save Everything, Click Here: The Folly of Technology Solutionism_, 2013. PDF to come.
