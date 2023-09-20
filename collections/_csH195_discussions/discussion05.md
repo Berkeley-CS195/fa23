@@ -10,4 +10,4 @@ readings_released: true
 ---
 
 Readings:
-- Introduction, Ch.1-2. Evgeny Morozov, _To Save Everything, Click Here: The Folly of Technology Solutionism_, 2013. PDF to come.
+- Introduction, Ch.1-2. Evgeny Morozov, _To Save Everything, Click Here: The Folly of Technology Solutionism_, 2013. [link](https://drive.google.com/file/d/1GFp_A3ciO5MTe2OBkSsxTeZhvyLk4FoV/view?usp=sharing){:target="\_blank"}
