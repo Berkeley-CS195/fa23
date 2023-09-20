@@ -2,6 +2,7 @@
 layout: page
 is_h195: true
 released: true
+hide: false     # does not show up in assignment bar
 date:
   release: 2023-08-21
   due: ongoing

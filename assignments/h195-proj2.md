@@ -2,6 +2,7 @@
 layout: page
 is_h195: true
 released: false
+hide: false     # does not show up in assignment bar
 date:
   release: 2023-10-26
   checkpoint1: 2023-11-02

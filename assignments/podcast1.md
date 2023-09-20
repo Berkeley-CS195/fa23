@@ -1,20 +1,18 @@
 ---
 layout: page
 is_h195: false
-hide: true      # does not show up in assignment bar
 released: false
+hide: false     # does not show up in assignment bar
 has:
-  proposal: false
+  proposal: true
   peer: true
 date:
-  due: 2023-11-01
-  proposal: 2023-10-25
-  peer_assign: 2023-11-03
-  peer: 2023-11-08
-has_proposal: false
-due_date: 2023-11-01
-index: 2
-title: Computing in the News 2
+  due: 2023-10-11
+  proposal: 2023-10-02
+  peer_assign: 2023-10-13
+  peer: 2023-10-18
+title: Computing in the News 1
+index: 1
 has_toc: true
 ---
 
@@ -23,8 +21,13 @@ has_toc: true
 Assignment Submission
 : **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
+Project partners
+: **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, remaining students auto-assigned to partners
+
 Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
+
+## TODO: include chatGPT description
 
 ## Assignment Description
 
