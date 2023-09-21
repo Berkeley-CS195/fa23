@@ -1,7 +1,7 @@
 ---
 layout: page
 is_h195: false
-released: true
+released: false
 hide: false     # does not show up in assignment bar
 has:
   proposal: true
@@ -31,13 +31,13 @@ Peer Reviews
 
 ## Assignment Description
 
-: Pick a topic, a related piece of media, and a CS195 classmate and talk about it for 7-10 minutes! Review others! Read below for more detail.
+Pick a topic, a related piece of media, and a CS195 classmate and talk about it for 7-10 minutes! Review others! Read below for more detail.
 
 ## Podcast Details
 
-: One of the learning goals of this course is to share and engage your opinions about the social implications of computing technology, particularly with others. Since most of you will engage with these implications through spoken conversation, we’re hoping that this will be a better simulation of what you will do in practice—as opposed to a written essay
+One of the learning goals of this course is to share and engage your opinions about the social implications of computing technology, particularly with others. Since most of you will engage with these implications through spoken conversation, we’re hoping that this will be a better simulation of what you will do in practice—as opposed to a written essay
 
-: You will record a 7-10 minute audio file of you talking with one other person in the course. This does not have to be an Audible/Spotify-level production, but the audio quality should be clear enough such that an automatic captioner would reasonably be able to pick up on most words. We share some resources for recording audio at the end of this assignment. 
+You will record a 7-10 minute audio file of you talking with one other person in the course. This does not have to be an Audible/Spotify-level production, but the audio quality should be clear enough such that an automatic captioner would reasonably be able to pick up on most words. We share some resources for recording audio at the end of this assignment. 
 
 The goal of this assignment is a conversation between classmates. You do not need to submit a written script (beyond any automatic transcription; see below). However, both you and your partner should speak roughly an equal amount of time, and there shouldn’t be too many extra-long pauses (e.g., 5-10 seconds of pausing every once in a while is fine, but a longer amount of silence is not). Heuristically, aim for the amount of speaking you see in a podcast or internet stream. With these two things in mind (no script required, but conversation should keep both parties engaged), if you need it, we encourage you to outline some thoughts ahead of time. You may need to do several recordings!
 
