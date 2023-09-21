@@ -27,7 +27,7 @@ Project partners
 Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
 
-## TODO: include chatGPT description
+<!-- ## TODO: include chatGPT description -->
 
 ## Assignment Description
 
@@ -35,7 +35,7 @@ Pick a topic, a related piece of media, and a CS195 classmate and talk about it 
 
 ## Podcast Details
 
-One of the learning goals of this course is to share and engage your opinions about the social implications of computing technology, particularly with others. Since most of you will engage with these implications through spoken conversation, we’re hoping that this will be a better simulation of what you will do in practice—as opposed to a written essay
+One of the learning goals of this course is to share and engage your opinions about the social implications of computing technology, particularly with others. Since most of you will engage with these implications through spoken conversation, we’re hoping that this will be a better simulation of what you will do in practice—as opposed to a written essay.
 
 You will record a 7-10 minute audio file of you talking with one other person in the course. This does not have to be an Audible/Spotify-level production, but the audio quality should be clear enough such that an automatic captioner would reasonably be able to pick up on most words. We share some resources for recording audio at the end of this assignment. 
 
@@ -73,3 +73,7 @@ A passing grade on a podcast is such that all rubric categories are marked “Sa
 | Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half. |
 
 Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
+
+## Usage of ChatGPT
+
+... idk
