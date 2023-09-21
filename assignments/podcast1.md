@@ -1,7 +1,7 @@
 ---
 layout: page
 is_h195: false
-released: false
+true: false
 hide: false     # does not show up in assignment bar
 has:
   proposal: true
@@ -31,72 +31,45 @@ Peer Reviews
 
 ## Assignment Description
 
-For this assignment, you are not restricted to topics covered in lectures!
-However, any topic you choose should still be related to the "social
-implications of computing technology."
+: Pick a topic, a related piece of media, and a CS195 classmate and talk about it for 7-10 minutes! Review others! Read below for more detail.
 
-Choose two articles published in <b>2023</b> that cover the same topic, concept, or
-current event:
+## Podcast Details
 
-1. The first article must be a <b>non-opinion</b> piece from a "top,"
-   "reputable," "unbiased" news website. Our tentative, non-exhaustive list is
-   AP, BBC, NPR, NYT, WSJ,  CNN, LA Times, Reuters, The New Yorker, Bloomberg,
-   Forbes, The Guardian, Pew Research, The Economist, TIME, etc. If you want to
-   use a news site not on this list, just check with us first and we'll confirm.
-   Part of our analysis will probably involve checking the
-   [Media Bias Chart](https://adfontesmedia.com).
-2. The second article must be an <b>opinion piece</b> from any news or blog site.
+: One of the learning goals of this course is to share and engage your opinions about the social implications of computing technology, particularly with others. Since most of you will engage with these implications through spoken conversation, we’re hoping that this will be a better simulation of what you will do in practice—as opposed to a written essay
 
-Your essay will consist of two paragraphs:
+: You will record a 7-10 minute audio file of you talking with one other person in the course. This does not have to be an Audible/Spotify-level production, but the audio quality should be clear enough such that an automatic captioner would reasonably be able to pick up on most words. We share some resources for recording audio at the end of this assignment. 
 
-1. In the first paragraph, summarize and provide context for the topic, concept,
-   or current event.
-2. In the second paragraph, compare and contrast the news article and opinion
-   piece. As part of your analysis, consider the perspective of the opinion
-   piece's author. Who are they, and why did they include or omit certain
-   details?
+The goal of this assignment is a conversation between classmates. You do not need to submit a written script (beyond any automatic transcription; see below). However, both you and your partner should speak roughly an equal amount of time, and there shouldn’t be too many extra-long pauses (e.g., 5-10 seconds of pausing every once in a while is fine, but a longer amount of silence is not). Heuristically, aim for the amount of speaking you see in a podcast or internet stream. With these two things in mind (no script required, but conversation should keep both parties engaged), if you need it, we encourage you to outline some thoughts ahead of time. You may need to do several recordings!
 
-   (This is why we want the first article to be reasonably impartial --
-   if we drew from a biased source, we would be comparing to a different
-   baseline.)
+## Topic choice and required media
 
-## Essay Format
+You must pick a topic related to what we will have covered in lecture, from Lecture 1: Free Speech up to and including Lecture 06: Government Censorship and Surveillance. (It cannot involve AI - you will have a chance to talk about AI and any other topic not covered in lecture in the second and final podcast assignment of this course.)
 
-Title
-: Please include your title at the top of the page.
+As part of your discussion, cite or discuss one news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class. You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
 
-Essay Length
-: Essays should be short: 300-500 words, excluding references.
+## Project partner search
 
-References
-: Include your references separately at the end of the essay. The format is not
-  important as long as the references are unambiguous and include website links
-  as full URLs where applicable. For example:
+You should “register” you and your partner as a group via this Google Form by {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}. Unassigned students by this time will be automatically assigned within 24 hours and notified via email.
 
-  NPR, "New Research Casts Doubt On Connection Between Smartphone Use And Teen
-  Mental Health.” <https://www.npr.org/2019/08/19/752529380/new-research-casts-doubt-on-connection-between-smartphone-use-and-teen-mental-he>
-  Accessed 9/19/22.
+We will have a pinned Ed post to search for project partners. If you post on this thread, we ask that you mark your threads as “resolved” to help other students search.
 
-Style
-: The writeup does not require a particular format (APA, MLA, etc are
-  acceptable). However, it is a college-level essay, and the writing should
-  still be professional.
-
-Format
-: The bCourses assignment will accept a PDF. This PDF must contain English
-  prose.
+Groups are two students; no groups of three will be permitted for this assignment.
 
 ## Grading and Rubric
 
-Your essay will be evaluated by three of your peers on each of the following
-criteria (each on a 2-point scale):
+Your essay will be evaluated by three of your peers using the following rubric.
+
+Since this is a pair assignment, if all goes well your assignment will receive four anonymous peer reviews. Each person therefore will have to submit two peer reviews (see “Peer Review” below).
+
+A passing grade on a podcast is such that all rubric categories are marked “Satisfactory” by all peer reviewers. 
 
 {: .rubric-table }
-| Category | 2 points | 1 point | 0 points |
-| -------- | -------- | ------- | -------- |
-| Summary is coherent. | Summarizes the topic in a coherent, balanced manner. | Attempts a summary, but it should be rewritten. | Incoherent/Irrelevant/blank |
-| Essay makes a meaningful comparison. | Makes a comparison that considers the authors' pespectives. | Compares the articles, but does not consider author perspectives. | Does not compare the articles. |
-| Essay writing is clear. | Uses well-written sentences with few spelling/grammatical errors. | Has several stylistic/spelling/grammatical errors that detract from the essay. | Illegible/blank |
-| Cited sources meet criteria. | One citation is a non-opinion piece from a top, reputable, unbiased news source, and the other is an opinion piece on the same topic. | One citation does not meet the criteria or only one source is cited. | Cites 0 sources. |
+| Category | 1 point | 0 points |
+| -------- | ------- | -------- |
+| Uploaded file is a text file (.vtt, .txt, PDF, word doc, etc.) or an audio file that contains the group conversation. | Satisfactory | File is a video file / File is not the conversation file. |
+| Conversation topic is pertinent to one (or more) of the specified lectures. | Satisfactory | Conversation is not pertinent to class. |
+| The conversation cites or discusses the uploaded piece of media (news article, tweet, video from Tiktok/YouTube/etc., academic paper) in a relevant manner. | Satisfactory | Conversation neither cites nor discusses a new piece of media outside of class resources. |
+| Conversation does not have particularly long pauses (e.g., longer than 15 seconds). | Satisfactory | Conversation includes an extra-long pause / contains so many pauses such that it cannot be considered satisfying the 7-10 minute requirement |
+| Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half. |
 
-Instructional staff may also spot-review essays and provide comments/share ideas.
+Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
