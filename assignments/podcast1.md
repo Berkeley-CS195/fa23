@@ -57,8 +57,6 @@ Groups are two students; no groups of three will be permitted for this assignmen
 
 ## Grading and Rubric
 
-Your essay will be evaluated by three of your peers using the following rubric.
-
 Since this is a pair assignment, if all goes well your assignment will receive four anonymous peer reviews. Each person therefore will have to submit two peer reviews (see “Peer Review” below).
 
 A passing grade on a podcast is such that all rubric categories are marked “Satisfactory” by all peer reviewers. 
@@ -73,7 +71,3 @@ A passing grade on a podcast is such that all rubric categories are marked “Sa
 | Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half. |
 
 Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
-
-## Usage of ChatGPT
-
-... idk
