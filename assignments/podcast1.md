@@ -1,7 +1,7 @@
 ---
 layout: page
 is_h195: false
-released: false
+released: true
 hide: false     # does not show up in assignment bar
 has:
   proposal: true
@@ -26,8 +26,6 @@ Project partners
 
 Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
-
-<!-- ## TODO: include chatGPT description -->
 
 ## Assignment Description
 
