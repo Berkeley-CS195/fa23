@@ -93,13 +93,8 @@ Please read the following:
 1. Select and finalize 1-4 pieces of media that students should read prior to discussion that
    will situate your chosen technology or concept in the context of society. Student
    media should take about 1 to 1.5 hours in total, maximum. Add this to your doc.
-
-   We won't require specific kinds of sources, but <s>please limit yourself to at
-   most two opinion pieces (and at most one from any single group)</s> (pending decision).
+   
    The UC Berkeley library is a good source for accessing possible readings.
-
-2. <s>Design a short "pre-work" activity for students to complete, which should
-   involve about a paragraph of writing</s> (pending decision).
 
 3. Come up with a rough lesson plan that should last for about 50-minutes of discussion
    to engage the students critically with the social context and implications of your
@@ -119,7 +114,7 @@ Please read the following:
 
 1. **Pilot**: Try your discussion out with 2-7 people! If you are in a pair, try with 3-7 people. Make sure to ask your students to look at the media beforehand - but make the discussion in such a way that they are still able to participate even if they did not look at the chosen media. 
 
-2. Then, complete a 1-page writeup that consists of:
+2. Then, complete a one-page writeup that consists of:
 
    - What the background of your students are as it relates to their interest/perspective on the content and how that impacted how you held discussion
      - We only care about background as far as it impacts how you chose to hold discussion with them. For example, if their political leaning, age, etc. impact how they might think about these topics that might be relevant to mention. As always, you don't need to reveal anything you aren't comfortable revealing.
