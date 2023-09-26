@@ -14,25 +14,29 @@ title: Teaching Computing in Society
 
 ## Timeline
 
-Topic Selection
+Topic, Group, and Media Selection
 : **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
-Readings Selection + Activity Pilot
+Lesson Plan + Slides Presentation + Finalized Media Selection
 : **Due {{ page.date.checkpoint2 | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
-Lesson Plan, Slides, Presentation
+Activity Pilot and Finalized Writeup
 : **Due {{ page.date.due | date: "%a %m/%d" }}, 2:00pm** at (bCourses link TBD). This due date is before discussion!
 
 ## Overview
 
 In this project, you get to design an H195 discussion! You will build a lesson
-plan for a 50-minute discussion for future H195 students to engage critically
+plan for a 50-minute discussion for a group of your choice to engage critically
 with the *social context* of a particular *computing technology* or *concept*.
-We will provide readings on pedagogical practices.
+We will provide readings on pedagogical practices. 
+
+Try to decide whom you will invite to the discussion before you pick your
+readings. This isn't a hard requirement, but it will probably make it easier
+to have an impactful conversation.
 
 You may do this assignment in pairs.
 
-## Topic Selection
+## Topic, Group, and Media Selection
 
 The topic can be, broadly, anything that you are interested in as long as it
 has a computing component and a society component.
@@ -41,13 +45,23 @@ Some of the things that you shared at the beginning of the term in response to
 the question "What do you want to get out of this course?" might be good
 starting points.
 
-On bCourses, submit a few sentences explaining your chosen computing topic and
-how you plan to draw a connection to society or identity concepts.
-Additionally, please provide a link or citation for one possible pre-reading.
-You aren't obligated to use this pre-reading -- this is just to give me a sense
-of the direction you're planning on going.
+1. Make a copy of this google doc [template](https://docs.google.com/document/d/18unuurmg5MAl0o2yeRDGuwVoWzLQWRLS2W2gh2pZrKo/copy),
+   add your last name to the title (and the last name of your parter if applicable),
+   and submit a commentable link of your copy to bCourses.
 
-For example, if I were to do this assignment, I might design a discussion
+3. In your doc few sentences explaining your chosen computing topic and
+   how you plan to draw a connection to society or identity concepts.
+
+4. Additionally, please provide at least one possible form of
+   media (reading, movie, video, tweet, etc.) your discussion participants will be
+   expected to look at beforehand.
+   <i>You aren't obligated to stick with the media you choose at this step -- this is
+   just to give me a sense of the direction you're planning on going.</i>
+
+5. Finally, in discussion we'll be asking about everyone's ideas! No formal prep for this is needed,
+   just come to class with ideas :\)
+
+For example, if Ethan were to do this assignment, Ethan might design a discussion
 around FOSS (free and open-source software), covering its history and
 sustainability in capitalism, and select the
 [`core-js` README by zloirock][core-js] as a possible pre-reading. If you're
@@ -74,89 +88,46 @@ Please read the following:
 [5E Lesson Plan]: https://blog.tcea.org/lesson-planning-5e-model/
 [Knowledge Integration Environment]: https://lessonresearch.net/teacher-learning/knowledge-integration/
 
-## Readings Selection + Activity Pilot
+## Lesson Plan + Slides Presentation + Finalized Media Selection
 
-1. Select 3-4 readings that students should read prior to discussion that will
-   situate your chosen technology or concept in the context of society. Student
-   readings should take about 1 to 1.5 hours in total, maximum.
+1. Select and finalize 1-4 pieces of media that students should read prior to discussion that
+   will situate your chosen technology or concept in the context of society. Student
+   media should take about 1 to 1.5 hours in total, maximum. Add this to your doc.
+   
+   The UC Berkeley library is a good source for accessing possible readings.
 
-   We won't require specific kinds of sources, but please limit yourself to at
-   most two opinion pieces (and at most one from any single group). Additionally,
-   the UC Berkeley library is a good source for accessing possible readings.
+3. Come up with a rough lesson plan that should last for about 50-minutes of discussion
+   to engage the students critically with the social context and implications of your
+   chosen topic. If you can't get your group to meet for that long it can be
+   shorter, but make a plan for at least 50 minutes. Write the rough lesson plan in your doc.
+   (Hint: In a discussion, 50 minutes of discussion will take less planning than you think.
+   You won't be lecturing at the students, so you mostly need to plan to have enough
+   interesting questions such that your students will be talking for 50 minutes! If you aren't
+   sure what counts as enough, feel free to ask us.)
 
-2. Design a short "pre-work" activity for students to complete, which should
-   involve about a paragraph of writing.
+4. Create a slidedeck to hold your discussion with. If you don't want to use slides for your
+   discussion (maybe you think the conversation will flow more naturally without them) just
+   make a note of it in the doc and make sure your lesson plan is sufficiently detailed for
+   you to use in the pilot. 
+   
+## Activity Pilot and Finalized Writeup
 
-3. Brainstorm one 25-minute discussion activity to engage the students
-   critically with the social context and implications of your chosen topic.
-   The 25 minutes or so should include all parts (intro, exercise, takeaway/
-   synthesis).
+1. **Pilot**: Try your discussion out with 2-7 people! If you are in a pair, try with 3-7 people. Make sure to ask your students to look at the media beforehand - but make the discussion in such a way that they are still able to participate even if they did not look at the chosen media. 
 
-4. **Pilot**: Try it out with 3-4 friends! For maximum effect, ask them to skim / do the
-   readings.
+2. Then, complete a one-page writeup that consists of:
 
-5. Then, complete a 1-page writeup that consists of:
-
-   - Your chosen readings
-   - Your chosen pre-work activity
-   - Your activity plan (see [below](#activity-plan))
+   - What the background of your students are as it relates to their interest/perspective on the content and how that impacted how you held discussion
+     - We only care about background as far as it impacts how you chose to hold discussion with them. For example, if their political leaning, age, etc. impact how they might think about these topics that might be relevant to mention. As always, you don't need to reveal anything you aren't comfortable revealing.
+     - ex. I held discussion with my parents and grandparents. My parents are \[blah blah\] and my grandparents are \[blah\]. None of them know very much about technology, but rely a lot on it for their news. 
    - Your learning goal(s) for the activity
-   - A reflection on the pilot: What went well, what can be improved.
-   - Any changes that you plan to make for the final deliverable.
+   - A reflection on the pilot: What went well, what can be improved. This should be the bulk of your writeup.
 
-Submit as a Google Doc link to bCourses, and make sure to enable Commenting for the TA(s) to give feedback before your presentation.
-This part is due {{ page.date.checkpoint2 | date: "%a %m/%d" }}
-
-### Activity Plan
-
-Construct one 25-minute activity where students engage with the social context
-of the computing technology. In your writeup, address the following:
-
-Introduction
-: How will you introduce the discussion section? For example, will you provide
-  any additional context beyond the readings?
-
-Recall Activity (Optional)
-: Pose a question you to get students positioned and warmed up to discuss. It
-  often involves students "recalling" what was in their required readings.
-
-Activity Structure
-: How will you structure the discussion of this question (in small groups,
-  pairs, as a class, a mixture, or something else)? Will you have time to
-  review as a class before or after the activity?
-
-Learning Goal/Outcome
-: Write 1-2 sentence for the instructor-facing lesson plan, e.g. "By the end of
-  this activity, students will be able to..." (See [Action Verbs])
-
-Main Takeaway
-: Share the main student-facing takeaway(s) that you will state for students
-  at the activity.
-
-## Presentation
-
-### Slides
-
-Your presentation should be between 7-10 minutes, and cover the following:
-
-Introduction / Contexualization
-: What are the computing topic and social context you are exploring?
-
-Readings
-: What are your readings, and why did you choose each reading?
-
-Activity Plan
-: See above. You should present a slide, or multiple that addresses your
-  activity plan. Briefly discuss why this activity meets learning goals and provoke discussion.
-
-Pilot
-: How did the pilot go, and what did you change or improve as part of your discussion?
-
-Additionally, include a slide with 2-3 "instructor readings," or sources
-that you think an instructor would find useful, but may be too in-depth for a
-student. This slide will not be presented.
-
-Submit as a Google Slides link to bCourses, and make sure to enable public view. We plan to post all presentation slides onto the public H195 website; please let us know if you would prefer to keep them private.
-This part will be presented in class {{ page.date.due | date: "%a %m/%d" }}.
+3. In class, we will ask you to talk briefly about your discussion and how it went. In this synopsis you should include:
+   - What are the computing topic and social context you are exploring?
+   - What are your readings, and why did you choose each reading?
+   - How did the background of your students impact your choices with regard to how you ran discussion and what readings you chose?
+   - How did the pilot go, and what would you change or improve as part of your discussion?
+   - What were your takeaways on how you communicate from this project?
+   This is supposed to be a casual but in-depth discussion with your peers. Focus less on what the instructors learn from this and        more on what you want your peers to learn about what you did. 
 
 [Action Verbs]: https://teaching.berkeley.edu/resources/design/course-level-learning-goalsoutcomes

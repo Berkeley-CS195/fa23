@@ -11,7 +11,7 @@ readings_released: true
 
 Readings:
 - CS 195 Week 6 readings.
-- Simone Browne, Dark Matters: On the Surveillance of Blackness [link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/detail.action?pq-origsite=primo&docID=2194890){:target="\_blank"}
+- Simone Browne, Dark Matters: On the Surveillance of Blackness. [link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/detail.action?pq-origsite=primo&docID=2194890){:target="\_blank"}
   - Introduction (p. 18-20), Definitions of Surveillance and Sousveillance; and Applications to Rodney King / LA riots
   - Epilogue (p. 161-164)
 - 1992 LA riots
