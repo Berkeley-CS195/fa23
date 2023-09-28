@@ -4,11 +4,13 @@ date: 2023-09-27
 number: "06"
 title: "Government Censorship and Surveillance"
 readings_released: true
-survey: "https://docs.google.com/forms/d/e/1FAIpQLSfFnrAKMFN8T8Hp0-eKu1cEms5RYLKsThZFXWlY768uQ6jYyw/viewform"
+survey: "https://tinyurl.com/cs195-fa23-week06"
 slides:
-  link: "https://docs.google.com/presentation/d/1ul27SmS9Et6nHYsMp4zlcBAhT3TpnhDjYAu9X8gyCgU/edit"
-  released: false
+  link: "https://docs.google.com/presentation/d/17f1VOzEQDlx4wzlchJA3lZmXD1X6KiOD7eO41aU6Zd8/edit?usp=sharing"
+  released: true
 ---
+
+**Required Survey**: [https://tinyurl.com/cs195-fa23-week06]({{page.survey}})
 
 **Required**
 1.  NPR, [Surveillance And Local Police: How Technology Is Evolving Faster Than Regulation](https://www.npr.org/2021/01/27/961103187/surveillance-and-local-police-how-technology-is-evolving-faster-than-regulation), 2021.
