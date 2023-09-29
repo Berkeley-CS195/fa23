@@ -65,7 +65,7 @@ In order to receive a passing grade in CS 195, you must complete the following:
 | Lectures      | [link](#lectures) | Attend at least 10 out of 13 lectures (excludes Lecture 01). | 
 | Surveys | [link](#surveys) | Complete all course surveys (~4 in the semester). |
 | Readings / QQCR    | [link](#readings--qqcr) | Submit a QQCR on each set of lecture readings. |
-| Essays | [link](#essays) | Submit two Computing in the News essays that receive passing peer review grades. Also, provide 3 peer review essays for each essay. |
+| **Update 9/28** Podcasts | [link](#podcasts) | Submit two Computing in the News podcasts that receive passing peer review grades. Also, provide 2 peer reviews for each podcast. |
 
 ## Lectures
 
@@ -129,13 +129,13 @@ Our classroom environment extends to online spaces like Ed. Be civil and respect
 Course staff reserve the right to delete and/or not award credit or dismiss students from seminar for remarks that promote hate speech, trolling, harrassment, discrimination, or defamation. Serious offenders will be reported directly to both the CS Department Grievances faculty member ([link](https://eecs.berkeley.edu/resources/students/grievances){:target="\_blank"}) and the University [Center for Student Conduct](https://conduct.berkeley.edu/){:target="\_blank"}.
 
 
-## Essays
+## Podcasts
 
-You will write two short essays (500-1000 words) of varying format in relation
-to issues discussed in class.
+**Update 9/28** In lieu of the typical essays for this course, this semester you will submit two podcasts of varying format in relation to issues discussed in class. Please see the [home page](../) for more details.
 
-Essays are peer reviewed, which means you will
-review **three essays** per peer review window, and have each of your essays reviewed by three of your peers.
+Podcasts are peer reviewed, which means you will review **two podcasts** per peer review window, and have each of your podcasts reviewed by two of your peers.
+
+There will be no essays this semester; furthermore we expect the podcasts to actually take up less time than formulating your thoughts on paper. Please do contact us if this is not the case.
 
 ## Accommodations and Late Policy
 
@@ -152,9 +152,9 @@ Ed in advance so we can provide you with details.
 
 **Readings/QQCR**: We prefer that you complete each QQCR by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQCRs.
 
-**Essays**: *As of now there are no plans to offer makeup essays.* While we do
+**Podcasts**: *As of now there are no plans to offer makeup podcasts.* While we do
 not want this 1-unit seminar to stress you out, please also understand that
-because of our grading timelines, essays must be submitted by the posted
+because of our grading timelines, podcasts must be submitted by the posted
 deadline. If you have extenuating circumstances or anticipate an overlap with
 your commitments (personal emergencies, exams, etc.), please make a private Ed
 post as soon as possible so we can provide a short extension or another
@@ -168,9 +168,11 @@ The student community at UC Berkeley has adopted the following Honor Code: "As a
 
 **Plagiarism/Self-plagiarism**: You must be original in composing the writing assignments in this class. To copy text or ideas from another source (including your own previously, or concurrently, submitted course work) without appropriate reference is plagiarism and will result in a failing grade for your assignment and usually further disciplinary action.  Anyone found to have submitted assignments completed by another person (student or non-student) will likewise receive a failing grade in the course and be reported to the Center for Student Conduct. For additional information on plagiarism, self-plagiarism, and how to avoid it, see [this GSI Guide for Preventing Plagiarism](http://gsi.berkeley.edu/teachingguide/misconduct/prevent-plag.html).
 
+<!--
 **Turnitin**:
 As a tool to promote academic integrity in this course, Turnitin will be used to check essays for originality. Turnitin takes assignments submitted through bCourses and compares them to a database of books, journal articles, websites, and other student papers. This creates an opportunity for you to improve your academic writing skills by ensuring that your sources have been properly cited and attributed. Turnitin can also help you gauge how much of your essay represents your own thinking and language. Please note that a low “Similarity Index” score does not necessarily indicate that the essay in question is without academic integrity issues. For more information on Turnitin see: [UC Berkeley Turnitin Page](https://rtl.berkeley.edu/services-programs/academic-integrity), [Students Getting Started](https://rtl.berkeley.edu/services-programs/academic-integrity/students-get-started-turnitin)
 
 **ChatGPT**: ChatGPT and other large language model (LLM)-supported software are considered sources of information and should be cited just like any other primary or secondary source. However, an LLM is no more than a tool---and as such, any usage of said tool should be reviewed by you, the human, before submission. In other words, it is alright for you to use LLMs when writing essays or creating QQCRs, but you should include _the prompt and any relevant LLM/chatGPT history_ with your submission. Citation format TBD.
 
 In the essays, there will be an option for you to reflect on the potential pitfalls and challenges of blindly relying on LLM output. Details TBD.
+-->

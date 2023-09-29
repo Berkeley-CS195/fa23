@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-11-01
 number: "11"
-title: "[Carolyn Chen] Tech and Labor"
+title: "[Carolyn Chen, Tony Wang] Tech and Labor"
 readings_released: false
 survey: https://docs.google.com/forms/d/e/1FAIpQLSfv50MQQp0q2XOcGuppZFq0cH2hk2e69gA2mORc0DdzQU6rsA/viewform
 slides:

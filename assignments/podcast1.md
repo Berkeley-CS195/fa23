@@ -69,3 +69,23 @@ A passing grade on a podcast is such that all rubric categories are marked “Sa
 | Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half. |
 
 Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
+
+## Peer Review
+
+As part of the grading process for this course, each person will anonymously submit two peer reviews, which includes submitting the above rubric as well as posting a single “Reply” as a text comment on the assignment on bCourses. Peer Reviews will be randomly assigned via bCourses.
+“Reply” guidelines
+* Post a question, quote and discuss, or comment on your classmates’ podcast. See the QQCR guidelines.
+* Submit this as a text comment in the peer review assignment you are assigned to.
+* Just like for QQCRs, you should be civil in your responses. Your classmates have worked hard on this assignment, and they will read your comments! One rule of thumb for constructive commenting: Instead of “I don’t like/I disagree,” say “I like” and “I wish…”
+* See the [syllabus](../syllabus.html#community-guidelines) for further guidelines, as well as how to report comments that violate the Code of Student Conduct.
+
+## Audio Resources
+
+The easiest way to make an audio file AND an automatically generated transcript is to record your conversation via Zoom.
+* Start a Zoom; you and your partner do not need to both sign on, but if you are in the same room then both of you should be in front of the microphone.
+* Click the “Record to the Cloud” or “Record to my Computer” and start your conversation.
+* After you finish, click “End Meeting” or “Stop Recording.”
+* After you end the meeting, if you selected “Record to my Computer” then your files will be available locally. If you selected “Record to the Cloud” you will need to wait for Zoom to email you a link to download your files.
+* Upon viewing the files, you will see an .mp4 video file, .m4a audio file, a .vtt text transcript file. You can upload either the .m4a audio file or the .vtt text file to the bCourses file submission (do not upload the .mp4 video file!!)
+* If you choose to upload the .vtt text transcript file, you must also separately email your group’s audio file to the course staff. See the “Submission” details above for the correct email subject heading.
+
