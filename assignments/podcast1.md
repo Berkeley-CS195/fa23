@@ -22,7 +22,7 @@ Assignment Submission
 : **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
 
 Project partners
-: **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, remaining students auto-assigned to partners
+: **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, remaining students auto-assigned to partners. [Link to form here.](https://docs.google.com/forms/d/e/1FAIpQLScnYnSSThGTiovBwYFmqZSKBTowJdkchipquRr225nXAhN8LA/viewform?usp=sf_link)
 
 Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
