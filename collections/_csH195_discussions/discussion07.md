@@ -16,4 +16,5 @@ Readings:
 - Last Week Tonight, [Artificial Intelligence](https://www.youtube.com/watch?v=Sqa8Zo2XWc4), Chapter 3 selections:
   - Introduction (p. 67-68)
   
-- \[Optional\] Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell, [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- **Optional** 
+  - Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell, [On the Dangers of Stochastic Parrots: Can Language   Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
