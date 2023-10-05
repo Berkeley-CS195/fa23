@@ -80,11 +80,10 @@ There will *not* be after-the-fact recordings posted.
 
 ## Surveys
 
-There will be periodic surveys throughout the semester, announced during class and on Ed. Please submit the survey on time by the date listed on the [homepage](/). Planned list of surveys:
-* Pre-semester survey
-* Technology and identity survey
-* Mid-semester survey
-* End-of-semester survey (note: this is separate from campus course evaluations)
+There will be periodic surveys throughout the semester, announced during class and on Ed. Please submit the survey on time by the date listed on the [homepage](/).
+* Pre-semester survey: Lecture 01
+* Technology and identity survey: Lecture 06
+* End-of-semester survey: Lecture 15 (note: this is separate from campus course evaluations)
 
 ## Readings / QQCR
 

@@ -10,7 +10,7 @@ slides:
   released: true
 ---
 
-**Fill out [this required survey]({{page.survey}}).**
+**Fill out this (optional) survey**: [{{page.survey}}]({{page.survey}})
 
 **Required**:
 * Benjamin, [_Race After Technology_: Introduction](https://drive.google.com/file/d/1zW0CJj4J7ZNhSMDGZ4poYXUR4t9K3SVh/view){: target=_blank"}, 2019. 
