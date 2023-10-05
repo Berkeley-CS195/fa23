@@ -2,12 +2,12 @@
 layout: cs195-reading
 date: 2023-10-04
 number: "07"
-title: Algorithmic Bias and Fairness
+title: The AI Debate
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSc9A1u2xgsPO-NXlMmOrhNzi2vtOtc8Jw_KZ61hdUG_rkJLRQ/viewform
 slides:
-  link: "https://docs.google.com/presentation/d/1mEvqtHJrNzelC-C8HGyJNlLKSRIpsO6u3Hf0hAEX3kM/edit"
-  released: false
+  link: "https://docs.google.com/presentation/d/1hnFybWFoKlac8OcaEgBX21ztOthy-SRNwW20BEF9EpQ/edit?usp=sharing"
+  released: true
 ---
 
 **Required**
