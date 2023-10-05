@@ -11,7 +11,7 @@ readings_released: true
 
 Readings:
 
-- Ch. 4. Virginia Eubanks, [Automating Inequality]() (link to be uploaded)
+- Ch. 4. Virginia Eubanks, [Automating Inequality](https://drive.google.com/file/d/1gZR8-kx3rCJiQWwRqF8XxCEDmxnCOFQh/view?usp=sharing) 
 - Esther Sánchez García and Michael Gasser, [Stochastic Parrots: How Natural Language Processing Research Has Gotten Too Big for Our Own Good](https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/stochastic-parrots/)
 - Last Week Tonight, [Artificial Intelligence](https://www.youtube.com/watch?v=Sqa8Zo2XWc4), Chapter 3 selections:
   
