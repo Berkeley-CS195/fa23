@@ -11,7 +11,7 @@ date:
   proposal: 2023-10-02
   peer_assign: 2023-10-13
   peer: 2023-10-18
-title: Computing in the News 1
+title: Podcast 1
 index: 1
 has_toc: true
 ---
@@ -58,7 +58,7 @@ Submit your podcast via bCourses (see the assignment link at the top of this pag
 * Only one partner from each group will need to submit to bCourses.
 * Your assigned groups have been imported to bCourses [here](https://bcourses.berkeley.edu/courses/1528441/groups#tab-82392). If you see an error, you should have the ability to move yourself around, but you can also make a private Ed post and we can help resolve as needed.
 * **We suggest that you announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
-  * If you need to adjut your topic/media piece for any reason, please include it as part of the announcement at the beginning of your podcast. No need to resubmit any Google Forms or email us.
+  * If you need to adjust your topic/media piece for any reason, please include it as part of the announcement at the beginning of your podcast. No need to resubmit any Google Forms or email us.
 * **File renaming**: Remember that peer reviewers will view your filename when they download; please rename your file if you would like to prefer anonymity. We suggest using a short-form version of your email hash, since you have already computed it.
 * If you need an extension, please fill out [the Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
 
