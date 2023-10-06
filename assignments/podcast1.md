@@ -19,7 +19,7 @@ has_toc: true
 ## Timeline
 
 Assignment Submission
-: **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** at (bCourses link TBD)
+: **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** on bCourses: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8656919)
 
 Project partners
 : **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, remaining students auto-assigned to partners. [Link to form in the Ed Announcement.](https://edstem.org/us/courses/43672/discussion/3532453)
@@ -52,6 +52,15 @@ You should “register” you and your partner as a group via this Google Form b
 We will have a pinned Ed post to search for project partners. If you post on this thread, we ask that you mark your threads as “resolved” to help other students search.
 
 Groups are two students; no groups of three will be permitted for this assignment.
+
+## Submission
+Submit your podcast via bCourses (see the assignment link at the top of this page).
+* Only one partner from each group will need to submit to bCourses.
+* Your assigned groups have been imported to bCourses [here](https://bcourses.berkeley.edu/courses/1528441/groups#tab-82392). If you see an error, you should have the ability to move yourself around, but you can also make a private Ed post and we can help resolve as needed.
+* **We suggest that you announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
+  * If you need to adjut your topic/media piece for any reason, please include it as part of the announcement at the beginning of your podcast. No need to resubmit any Google Forms or email us.
+* **File renaming**: Remember that peer reviewers will view your filename when they download; please rename your file if you would like to prefer anonymity. We suggest using a short-form version of your email hash, since you have already computed it.
+* If you need an extension, please fill out [the Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
 
 ## Grading and Rubric
 
