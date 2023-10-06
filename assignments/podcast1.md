@@ -63,6 +63,7 @@ Submit your podcast via bCourses (see the assignment link at the top of this pag
 * **File renaming**: Remember that peer reviewers will view your filename when they download; please rename your file if you would like to prefer anonymity. We suggest using a short-form version of your email hash, since you have already computed it.
 * **Transcript submissions**: If you prefer to submit a text transcript of your conversation for peer grading; details on how to use Zoom recordings for auto-transcript are at the bottom of the assignment page. Please note that you will need to ALSO submit the audio file to the [Optional] bCourses assignment, viewable to instructors only. That bCourses link is also at the top of this page.
 * If you need an extension, please fill out [the Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
+* More details on the [Ed post here](https://edstem.org/us/courses/43672/discussion/3579166).
 
 ## Grading and Rubric
 
