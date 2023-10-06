@@ -20,6 +20,7 @@ has_toc: true
 
 Assignment Submission
 : **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** on bCourses: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8656919)
+: Optional Supplementary Materials Upload: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8659242)
 
 Project partners
 : **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, remaining students auto-assigned to partners. [Link to form in the Ed Announcement.](https://edstem.org/us/courses/43672/discussion/3532453)
@@ -60,6 +61,7 @@ Submit your podcast via bCourses (see the assignment link at the top of this pag
 * **We suggest that you announce your topic and the media you are citing at the beginning of your podcast.** This will greatly facilitate peer and staff grading.
   * If you need to adjust your topic/media piece for any reason, please include it as part of the announcement at the beginning of your podcast. No need to resubmit any Google Forms or email us.
 * **File renaming**: Remember that peer reviewers will view your filename when they download; please rename your file if you would like to prefer anonymity. We suggest using a short-form version of your email hash, since you have already computed it.
+* **Transcript submissions**: If you prefer to submit a text transcript of your conversation for peer grading; details on how to use Zoom recordings for auto-transcript are at the bottom of the assignment page. Please note that you will need to ALSO submit the audio file to the [Optional] bCourses assignment, viewable to instructors only. That bCourses link is also at the top of this page.
 * If you need an extension, please fill out [the Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
 
 ## Grading and Rubric
