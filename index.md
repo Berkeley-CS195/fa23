@@ -26,12 +26,12 @@ title: ""
 
 ## Assignments
 
-See the [Syllabus](syllabus) for essay grading details. All deadlines are {{site.assignment_time}} Pacific.
+See the [Syllabus](syllabus) for assignment grading details. All deadlines are {{site.assignment_time}} Pacific.
 
 {% assign assignments = site.pages | where_exp: "a", "a.path contains 'assignments/' and a.is_h195 == false and a.hide == false" %}
 {% assign assignments = assignments | sort: 'index' %}
 
-| Assignment | Assignment Due           | Peer Reviews Due    | Assignment<br/>Specification |
+| Podcast | Assignment Due           | Peer Reviews Due    | Assignment<br/>Specification |
 |-------|--------------------|---------------------|---------------------| ---- |
 {% for a in assignments -%}
   | {{a.index}} | {{ a.date.due | date: "%a %m/%d" }} |
