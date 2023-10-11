@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-10-11
 number: "08"
-title: "Generative AI, Part I"
+title: "[Cancelled] Google AI Ethics"
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSd0pfoFGJ8XHYAzc0QzpYWSq8yc6_dOI9Uyj_5fWP6SlbsJlw/viewform
 slides:
