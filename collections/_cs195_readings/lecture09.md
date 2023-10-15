@@ -10,12 +10,9 @@ slides:
   released: false
 ---
 
-**Fill out [this survey]({{page.survey}}) by Monday 03/13 at 11:59 PM.**
+**Required**
+1. Science, ["Generative AI meets copyright"](https://www.science.org/doi/10.1126/science.adi0656), 2023.
+2. The NYT, ["35 Ways Real People Are Using AI Right Now"](https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html), 2023.
+3. Guardian. ["AI machines aren’t ‘hallucinating’. But their makers are"](https://www.theguardian.com/commentisfree/2023/may/08/ai-machines-hallucinating-naomi-klein), 2023.
 
-* Required: [UAW 2865 & SRU Contract Highlights](https://www.fairucnow.org/uaw2865-sru-contracts/)
-* Required: Zaveri, Paayal, ["The tech layoffs have created the perfect moment for tech workers to get organized and unionize, but getting there isn't easy"](https://www.businessinsider.com/tech-layoffs-allow-workers-learn-how-to-unionize-2023-3)
-* Required: McKinsey Global Institute, ["Harnessing automation for a future that works"](https://www.mckinsey.com/featured-insights/digital-disruption/harnessing-automation-for-a-future-that-works)
-* Recommended: Kim, Tammy, ["The Gig Economy is Coming for Your Job"](https://www.nytimes.com/2020/01/10/opinion/sunday/gig-economy-unemployment-automation.html)
-* Extra: Chokshi, ["What if You Had a Four-Day Week? Why Don't You?"](https://www.nytimes.com/2019/11/08/business/four-day-work-week.html)
-* Extra: Boudette, ["Despite High Hopes, Self-Driving Cars Are 'Way in the Future'"](https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html)
-* Extra: [Realtime Inequality](https://realtimeinequality.org/)
+_QQCRs will be due Friday, October 20th at 11:59pm instead of Wednesday_
