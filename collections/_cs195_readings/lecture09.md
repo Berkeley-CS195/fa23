@@ -14,5 +14,3 @@ slides:
 1. Science, ["Generative AI meets copyright"](https://www.science.org/doi/10.1126/science.adi0656), 2023.
 2. The NYT, ["35 Ways Real People Are Using AI Right Now"](https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html), 2023.
 3. Guardian. ["AI machines aren’t ‘hallucinating’. But their makers are"](https://www.theguardian.com/commentisfree/2023/may/08/ai-machines-hallucinating-naomi-klein), 2023.
-
-_QQCRs will be due Friday, October 20th at 11:59pm instead of Wednesday_
