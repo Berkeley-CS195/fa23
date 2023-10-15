@@ -3,7 +3,7 @@ layout: cs195-reading
 date: 2023-10-18
 number: "09"
 title: "[Pam Samuelson] Generative AI, Part II"
-readings_released: false
+readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSdzV4kj4OCD5UN4P-8CYr7Pcjj3MOahZzV4p7rLQGZ37ejQsQ/viewform
 slides:
   link: "https://docs.google.com/presentation/d/1D5A5t993wYZeHh9P-An9SMP-yC5ziA6fs30rOgVz5t0/edit?usp=sharing"
