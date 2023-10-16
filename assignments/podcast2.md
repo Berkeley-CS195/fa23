@@ -7,12 +7,12 @@ has:
   proposal: true
   peer: true
 date:
-  due: 2023-11-01
+  due: 2023-11-08
   proposal: 2023-10-25
-  peer_assign: 2023-11-03
-  peer: 2023-11-08
+  peer_assign: 2023-11-11
+  peer: 2023-11-15
 title: Podcast 2
-index: 1
+index: 2
 has_toc: true
 ---
 
