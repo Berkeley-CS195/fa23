@@ -77,7 +77,7 @@ A passing grade on a podcast is such that all rubric categories are marked “Sa
 | Uploaded file is a text file (.vtt, .txt, PDF, word doc, etc.) or an audio file that contains the group conversation. | Satisfactory | File is a video file / File is not the conversation file. |
 | Conversation topic is pertinent to one (or more) of the specified lectures. | Satisfactory | Conversation is not pertinent to class. |
 | The conversation cites or discusses the uploaded piece of media (news article, tweet, video from Tiktok/YouTube/etc., academic paper) in a relevant manner. | Satisfactory | Conversation neither cites nor discusses a new piece of media outside of class resources. |
-| Conversation does not have particularly long pauses (e.g., longer than 15 seconds). | Satisfactory | Conversation includes an extra-long pause / contains so many pauses such that it cannot be considered satisfying the 7-10 minute requirement |
+| Conversation does not have particularly long pauses (e.g., longer than 15 seconds) and is within time limit. | Satisfactory | Conversation includes an extra-long pause / contains so many pauses such that it cannot be considered satisfying the 7-10 minute requirement / Conversation exceeds 7-10 minutes or thereabouts. |
 | Conversation feels relatively balanced, i.e., it flows back and forth. | Satisfactory | One person is dominating the speaking time / One person takes the first half, then the other person takes the second half. |
 
 Instructional staff will spot-review some podcasts and will explicitly re-review any submissions that do not achieve “Satisfactory” in all rubric items.
