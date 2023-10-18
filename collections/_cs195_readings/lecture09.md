@@ -6,8 +6,8 @@ title: "[Pam Samuelson] Generative AI, Part II"
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSdzV4kj4OCD5UN4P-8CYr7Pcjj3MOahZzV4p7rLQGZ37ejQsQ/viewform
 slides:
-  link: "https://docs.google.com/presentation/d/1D5A5t993wYZeHh9P-An9SMP-yC5ziA6fs30rOgVz5t0/edit?usp=sharing"
-  released: false
+  link: "https://docs.google.com/presentation/d/1fdLUUaJeUOXJRjnVeWpMOSDhIYRXFm92/edit?usp=sharing"
+  released: true
 ---
 
 **Required**
