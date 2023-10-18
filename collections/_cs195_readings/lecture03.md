@@ -17,6 +17,6 @@ Readings:
 2. EU, ["What is GDPR, the EU’s new data protection law?"](https://gdpr.eu/what-is-gdpr/), 2022. Wired. (references child abuse).
 3. The New York Times, ["Are You in a Gang Database?"](https://www.nytimes.com/2020/02/03/opinion/los-angeles-gang-database.html), 2020.
 
-**Optional**:
+_Optional_:
 * Theilman, [“Apple v the FBI: what’s the beef, how did we get here and what’s at stake?”](https://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino), 2016. The Guardian.
 * Slate, ["The Cruel New Era of Data-Driven Deportation"](https://slate.com/technology/2020/09/palantir-ice-deportation-immigrant-surveillance-big-data.html), 2020.

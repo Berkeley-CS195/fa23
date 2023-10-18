@@ -20,6 +20,6 @@ Readings:
 3. NPR. ["New Research Casts Doubt On Connection Between Smartphone Use And Teen Mental Health"](https://www.npr.org/2019/08/19/752529380/new-research-casts-doubt-on-connection-between-smartphone-use-and-teen-mental-he){:target="\_blank"}. 2019.
 4. Nylon. ["For plus-size creators, Tiktok presents a new wave of challenges"](https://www.nylon.com/life/tiktok-body-positivity-plus-size-creators){:target="\_blank"}. 2022.
 
-**Optional**:
+_Optional_:
 * NPR. ["A new AI-powered TikTok filter is sparking concern"](https://www.npr.org/2023/03/08/1162022249/a-new-ai-powered-tiktok-filter-is-sparking-concern){:target="\_blank"}. 2023.
 * Pew Research Center, ["Social Media Use in 2021"](https://www.pewresearch.org/internet/2021/04/07/social-media-use-in-2021/){:target="\_blank"}

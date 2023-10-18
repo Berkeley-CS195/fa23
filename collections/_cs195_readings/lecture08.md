@@ -10,16 +10,18 @@ slides:
   released: false
 ---
 
+Note: Lecture was cancelled, but readings are still required.
+
 **Required**
 1. Wired, ["What Really Happened When Google Ousted Timnit Gebru"](https://www.wired.com/story/google-timnit-gebru-ai-what-really-happened/), 2021.
 2. Platformer. ["The withering email that got an ethical AI researcher fired at Google"](https://www.platformer.news/p/the-withering-email-that-got-an-ethical), 2020.
 3. Google Walkout For Real Change. ["Standing with Dr. Timnit Gebru — #ISupportTimnit #BelieveBlackWomen"](https://googlewalkout.medium.com/standing-with-dr-timnit-gebru-isupporttimnit-believeblackwomen-6dadc300d382), 2020.
 
-**Optional**
+_Optional_
 1. Google. ["Our AI Principles"](https://ai.google/responsibility/principles/).
 2. Harvard Business Review. ["A Lesson from Google: Can AI Bias be Monitored Internally?"](https://hbr.org/podcast/2022/08/a-lesson-from-google-can-ai-bias-be-monitored-internally), 2022.
 
-**Extra Research**
+_Extra Research_
 1. Google. ["The value of a shared understanding of AI models"](https://modelcards.withgoogle.com/about).
 2. Gender Shades. ["How well do IBM, Microsoft, and Face++ AI services guess the gender of a face?"](http://gendershades.org/).
 3. ACM. ["On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜"](https://dl.acm.org/doi/10.1145/3442188.3445922).

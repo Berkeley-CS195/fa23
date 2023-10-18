@@ -17,5 +17,5 @@ slides:
 2. Slate, ["The Cruel New Era of Data-Driven Deportation"](https://slate.com/technology/2020/09/palantir-ice-deportation-immigrant-surveillance-big-data.html), 2020.
 3. NPR, ["A decade on, Edward Snowden remains in Russia, though U.S. laws have changed"](https://www.npr.org/2023/06/04/1176747650/a-decade-on-edward-snowden-remains-in-russia-though-u-s-laws-have-changed), 2023.
 
-**Optional**
+_Optional_
 1. NPR, ["Know It All: AI, facial recognition, and police surveillance"](https://the1a.org/segments/know-it-all-facial-recognition-and-ai-in-police-surveillance/), 2023.
