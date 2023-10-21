@@ -17,5 +17,5 @@ slides:
 
 _Optional_:
 * The New Yorker, ["Lina Khan’s Battle to Rein in Big Tech"](https://www.newyorker.com/magazine/2021/12/06/lina-khans-battle-to-rein-in-big-tech), 2021.
-* Los Angeles Time, ["Prop. 22: California gig companies, workers get their day in appeals court"](https://www.latimes.com/business/story/2022-12-13/california-prop-22-appeals-court-hearing-weighs-gig-workers-fate), 2022.
+* Los Angeles Times, ["Prop. 22: California gig companies, workers get their day in appeals court"](https://www.latimes.com/business/story/2022-12-13/california-prop-22-appeals-court-hearing-weighs-gig-workers-fate), 2022.
 * Giblin and Doctorow, [_Chokepoint Capitalism_: Chapter 2](https://drive.google.com/file/d/1Dh2W4kUFs7kp_rAAOzWX8mKcAqa7N3AN/view?usp=share_link){: target=_blank"}, 2022.
