@@ -3,19 +3,19 @@ layout: cs195-reading
 date: 2023-10-25
 number: "10"
 title: "Silicon Valley and the U.S."
-readings_released: false
+readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSeXnL1bpiySy3AULBtNXnAHkN3OWtUAHYf3RmVjGKU6VN2F_Q/viewform
 slides:
   link: ""
   released: false
 ---
 
-**Fill out [this survey]({{page.survey}}) by Monday 03/20 at 11:59 PM.**
+**Required**:
+1. NPR, ["FTC Chair Lina Khan's lawsuit isn't about breaking up Amazon, for now"](https://www.npr.org/2023/09/28/1202205683/amazon-lina-khan-lawsuit-monopoly-prices-sellers-shoppers), 2023.
+2. KQED, ["Court Upholds Prop. 22 in Big Win for Gig Firms Like Lyft and Uber"](https://www.kqed.org/news/11943454/court-upholds-prop-22-in-big-win-for-gig-firms-like-lyft-and-uber), 2023.
+3. Giblin and Doctorow, [_Chokepoint Capitalism_: Chapter 1](https://drive.google.com/file/d/1BFstO4XDxfAa73EvkUQRXK48_bsp9EtV/view?usp=sharing){: target=_blank"}, 2022.
 
-* Recommended: Smith, ["The Machines Are Learning, and So Are the Students"](https://www.nytimes.com/2019/12/18/education/artificial-intelligence-tutors-teachers.html)
-* Recommended: Upson, ["How an Epic Series of Tech Errors Hobbled Miami's Schools"](https://www.wired.com/story/epic-tech-errors-hobbled-miamis-schools/)
-* Recommended: bell hooks, [Teaching to Transgress, 1994. Engaged Pedagogy, p. 13 - p. 22](https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=732033&site=ehost-live&ebv=EB&ppid=pp_13)
-  * Access through your institution
-* Extra: Reich ["Ed-Tech Mania Is Back"](https://www.chronicle.com/article/ed-tech-mania-is-back), requires registering free chronicle.com account.
-* Extra: Carey, ["An Online Education Breakthrough? A Master's Degree for a Mere $7,000"](https://www.nytimes.com/2016/09/29/upshot/an-online-education-breakthrough-a-masters-degree-for-a-mere-7000.html)
-* Extra: Khan, ["I Started Khan Academy. We Can Still Avoid an Education Catastrophe."](https://www.nytimes.com/2020/08/13/opinion/coronavirus-school-digital.html)
+_Optional_:
+* The New Yorker, ["Lina Khan’s Battle to Rein in Big Tech"](https://www.newyorker.com/magazine/2021/12/06/lina-khans-battle-to-rein-in-big-tech), 2017.
+* Los Angeles Time, ["Prop. 22: California gig companies, workers get their day in appeals court"](https://www.latimes.com/business/story/2022-12-13/california-prop-22-appeals-court-hearing-weighs-gig-workers-fate), 2022.
+* Giblin and Doctorow, [_Chokepoint Capitalism_: Chapter 2](https://drive.google.com/file/d/1Dh2W4kUFs7kp_rAAOzWX8mKcAqa7N3AN/view?usp=share_link){: target=_blank"}, 2022.
