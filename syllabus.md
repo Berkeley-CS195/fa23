@@ -149,17 +149,19 @@ Ed in advance so we can provide you with details.
 
 **Surveys**: You are expected to complete all surveys by their listed deadlines on the [homepage](/). These will be reopened for completion as needed. To request a reopening, please make a private post on Ed.
 
-**Readings/QQCR**: We prefer that you complete each QQCR by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQCRs.
+**Readings/QQCR**: We prefer that you complete each QQCR by the *listed lecture date* to ensure a rich discussion during class. However, if you cannot make this date, you will have until the **last day of classes** to submit all outstanding QQCRs. Please submit regrades via the form below.
 
 **Podcasts**: *As of now there are no plans to offer makeup podcasts.* While we do
 not want this 1-unit seminar to stress you out, please also understand that
 because of our grading timelines, podcasts must be submitted by the posted
 deadline. If you have extenuating circumstances or anticipate an overlap with
 your commitments (personal emergencies, exams, etc.), please make a private Ed
-post as soon as possible so we can provide a short extension or another
+post as soon as possible or see the form below so we can provide a short extension or another
 accommodation. We will review each extension request on an individual basis.
 
 **DSP**: If you have a DSP-approved accommodation, we will contact you by the end of Week 2 with this semester's DSP policies. Requesting assignment extensions according to your letter will involve you making a private post on Ed *prior* to the assignment deadline.
+
+If you need an extension or regrade request, please fill out this semester's [Extension/Regrade Request form](https://docs.google.com/forms/d/e/1FAIpQLSeDIBx-Q4-jtYq0FERjOmlDAfmdAn9k47kQlF7-iRQebcwzJw/viewform).
 
 ## Academic Integrity
 
