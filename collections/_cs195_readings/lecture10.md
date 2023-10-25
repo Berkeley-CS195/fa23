@@ -4,10 +4,10 @@ date: 2023-10-25
 number: "10"
 title: "Silicon Valley and the U.S."
 readings_released: true
-survey: https://docs.google.com/forms/d/e/1FAIpQLSeXnL1bpiySy3AULBtNXnAHkN3OWtUAHYf3RmVjGKU6VN2F_Q/viewform
+survey: ""
 slides:
-  link: ""
-  released: false
+  link: "https://docs.google.com/presentation/d/1nZ5DJyaQlePkZ74jG8kZnEfZ2y6rx3WWmKq08vwOa78/edit?usp=sharing"
+  released: true
 ---
 
 **Required**:
