@@ -1,7 +1,7 @@
 ---
 layout: page
 is_h195: true
-released: false
+released: true
 hide: false     # does not show up in assignment bar
 date:
   release: 2023-10-26
@@ -39,21 +39,22 @@ accomplish some of the following goals for a *<u>community</u>*:
 - Design an intervention
 - Engage the community in an issue
 
-This project may be (and is encouragedt to be) completed in groups.
+This project may be (and is encouraged to be) completed in groups. If you decide, you may even do the project as an entire class if it is large enough. 
 
 ## Guidelines on Project Scope
 
-Since we are a 3-unit class and are supposed to have about
-[6 hours of work outside of class per week](https://classes.berkeley.edu/content/2023-spring-compsci-h195-001-lec-001),
-and this project should occupy your last 1-2 weeks of the class, plan on doing
-something that takes about 9-15 hours. That number should be understood very
+Plan on doing something that takes about 4.5-7.5 hours per week. That number should be understood very
 generously--i.e., it's understood to include time spent pondering what you want
 to do for your project, not just time actively typing.
 
 ## 1. Topic and Project Selection
 
-In Week 12 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
+In Week 10 ({{page.topicdue}}), we will do a "post-it" brainstorming activity in pairs or groups on
 possible topics and projects; and possibly form groups.
+
+Some past projects from previous CS 195 Students:
+
+- (TO BE ADDED)
 
 Some past projects from students that have done a similar project at Stanford:
 
@@ -70,7 +71,7 @@ Some past projects from students that have done a similar project at Stanford:
   broader trends in how tech cultures affect individuals
 - Design a PSA about a particular technology, such as the effects it has on your
   chosen community
-- *Note*: We'd like you to do something that is not a lesson plan, given that Project 2 already engaged with the classroom environment.
+- *Note*: We'd like you to do something that is somewhat different from Project 1.
 
 ## 2. Proposal
 
