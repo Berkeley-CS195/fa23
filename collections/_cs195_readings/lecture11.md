@@ -13,6 +13,5 @@ slides:
 Guest speakers: Professor Carolyn Chen and Tony Wang.
 
 **Required**:
-* Chen, _Work Pray Code_. [Chapter 1: Losing My Religion . . .
-and Finding It at Work](https://drive.google.com/file/d/1wH_v3TkKXgrXynPiiII-AQCoyYrh31Jn/view) 2022.
+* Chen, _Work Pray Code_. [Introduction: How Work Is Replacing Religion](https://drive.google.com/file/d/1iWLIgJKaitLZbJfk13yVQwNgmMihp411/view?usp=drive_link) 2022.
 * Chen, _Work Pray Code_. [Conclusion: Techtopia](https://drive.google.com/file/d/1r_Llkp0y5emSaioT53N1zcdrg9iAedin/view?usp=drive_link) 2022.
