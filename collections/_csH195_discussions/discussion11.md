@@ -9,6 +9,8 @@ slides:
 readings_released: false
 ---
 
-- bell hooks, [Teaching to Transgress, Ch. 1](https://sites.utexas.edu/lsjcs/files/2018/02/Teaching-to-Transcend.pdf)
+- Paloma Esquivel, [Vote by UC graduate student workers to ratify labor agreement exposed a sharp divide among campuses](https://archive.ph/VFt06#selection-1575.21-1575.100)
+- UC Rank-and-File Strike Committee, [The UAW cannot be trusted to oversee the University of California contract vote!](https://www.wsws.org/en/articles/2022/12/22/oxvw-d22.html)
+- Optional
 - Anthony Abraham Jack, [The Privileged Poor, Introduction + Ch 1](https://www-jstor-org.libproxy.berkeley.edu/stable/j.ctv24w646x, through Berkeley institutional access)
 - Extra reading -- no notes, but will be useful for project: <https://criticallyconsciouscomputing.org/pedagogy>
