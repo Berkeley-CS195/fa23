@@ -5,7 +5,7 @@ number: "11"
 title: Tech and Labor
 slides:
   link: "https://docs.google.com/presentation/d/1v0uLigV0Qbnk6bORdN4c1Noa74xNer_mt9mUmbW4_Vw/edit#slide=id.p"
-  released: false
+  released: true
 readings_released: false
 ---
 
