@@ -14,4 +14,3 @@ readings_released: false
 - UC Rank-and-File Strike Committee, [The UAW cannot be trusted to oversee the University of California contract vote!](https://www.wsws.org/en/articles/2022/12/22/oxvw-d22.html)
 - **Optional**
   - Anthony Abraham Jack, [The Privileged Poor, Introduction + Ch 1](https://www-jstor-org.libproxy.berkeley.edu/stable/j.ctv24w646x, through Berkeley institutional access)
-  - Extra reading -- no notes, but will be useful for project: <https://criticallyconsciouscomputing.org/pedagogy>
