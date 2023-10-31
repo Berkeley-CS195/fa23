@@ -42,7 +42,7 @@ The goal of this assignment is a conversation between classmates. You do not nee
 
 ## Topic choice and required media
 
-You must pick a topic related to what we will have covered in lecture, from Lecture 1: Free Speech up to and including Lecture 06: Government Censorship and Surveillance. (It cannot involve AI - you will have a chance to talk about AI and any other topic not covered in lecture in the second and final podcast assignment of this course.)
+You must pick a topic related to what we will have covered in lecture, from Lecture 1: Free Speech up to and including Lecture 06: Government Censorship and Surveillance. (It cannot involve AI - you will have a chance to talk about AI in the second and final podcast assignment of this course.)
 
 As part of your discussion, cite or discuss one news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class. You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
 
