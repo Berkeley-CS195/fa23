@@ -9,6 +9,7 @@ slides:
 readings_released: false
 ---
 
+- Peter Allen Clark, [The year labor organizing came to tech](https://www.axios.com/2022/12/12/tech-labor-movement-unions-2022)
 - Paloma Esquivel, [Vote by UC graduate student workers to ratify labor agreement exposed a sharp divide among campuses](https://archive.ph/VFt06#selection-1575.21-1575.100)
 - UC Rank-and-File Strike Committee, [The UAW cannot be trusted to oversee the University of California contract vote!](https://www.wsws.org/en/articles/2022/12/22/oxvw-d22.html)
 - **Optional**
