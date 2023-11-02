@@ -75,32 +75,13 @@ Some past projects from students that have done a similar project at Stanford:
 
 ## 2. Proposal
 
-The project proposal outlines what your project will be and is due via bCourses by {{page.proposaldue}}, 11:59pm. The sections of the
-proposal are as follows:
+The project proposal outlines what your project will be and is due via bCourses by {{page.proposaldue}}, 11:59pm. The proposal spec is as follows:
 
-1. 1-2 paragraphs (about 500 words) describing the project vision.
-2. Separate list of additional resources or readings, like those on our
-   syllabus, that relate to your project or inform its design. You aren't
-   strictly required to have any, but many projects will have some and it will
-   be good to track them.
-3. (If you worked in a group) A list of the members of your team, and a bullet
-   list breakdown describing
-   what each member is responsible for. (If a team of one, still give a bullet
-   list breakdown of the individual tasks required to complete this project.)
-   Assign a very rough hours estimate to complete each task. This is an
-   opportunity to practice the skill of professionalism in project management.
-   In part that means: please do not be heroic in assigning these estimates.
-   Would it take 10 minutes if everything goes right and you know exactly what
-   to do and how to do it at the outset? That's probably a minimum 1 hour task
-   then, being realistic. Good project managers build in time for fishing about
-   for what to do, re-doing work that was done when there is an unexpected
-   hiccup, etc. That said, professionalism also means not grotesquely "padding"
-   the estimates.
-4. 1-2 paragraphs (about 500 words) describing the main open questions or
-   potential areas of concern on the horizon for this project. This is in part
-   to help you foresee problems for yourselves by stopping to consider this. It
-   is also in part to communicate with us so we can help you address open
-   questions, find additional resources, organize around concerns, etc.
+Submit a google doc link with comment access for the TAs including a brief synopsis of what you plan to do for your project, and who are your partners if you have them.
+
+This synopsis can range from 2-5 sentences in length, and can be (slightly) modified in the future. However, we want you to stay mostly committed to the project you describe in this submission.
+
+We want to know about your topic, issue, intended/possible audience, and implementation. Specifics need not be included unless you know them at this point.
 
 ## 3. Presentation
 
