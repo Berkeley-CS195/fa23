@@ -21,7 +21,7 @@ has_toc: true
 1. Project partners : **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, on bCourses Groups, remaining students auto-assigned to partners.
 
 2. Assignment Submission
-: **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** on bCourses: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8656919)
+: **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** on bCourses: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8666685)
 
 3. Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
