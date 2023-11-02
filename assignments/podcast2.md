@@ -18,18 +18,17 @@ has_toc: true
 
 ## Timeline
 
-Assignment Submission
+1. Project partners : **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, on bCourses Groups, remaining students auto-assigned to partners.
+
+2. Assignment Submission
 : **Due {{ page.date.due | date: "%a %m/%d" }}, {{site.assignment_time}}** on bCourses: [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8656919)
 
-Project partners
-: **Due {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}**, on bCourses Groups, remaining students auto-assigned to partners.
-
-Peer Reviews
+3. Peer Reviews
 : Assigned {{ page.date.peer_assign | date: "%a %m/%d" }} via bCourses, **due {{page.date.peer | date: "%a %m/%d" }}, {{site.assignment_time}}**
 
 ## Assignment Description
 
-Pick a topic, a related piece of media, and a CS195 classmate and talk about it for 7-10 minutes! Review others! Read below for more detail.
+Pick a topic, a related piece of media, and a CS195 classmate and talk about it for 7-10 minutes! Peer review other podcasts! Read below for more detail.
 
 ## Podcast Details
 
@@ -41,16 +40,16 @@ The goal of this assignment is a conversation between classmates. You do not nee
 
 ## Topic choice and required media
 
-You must pick a topic related to what we will have covered in lecture, from Lecture 07: The AI Debate up to and including Lecture 13: Memes, Misinformation, and Information Literacy.
+You must pick a topic related to what we will have covered in lecture, from Lecture 07: The AI Debate up to and including Lecture 13: Memes, Misinformation, and Information Literacy. Or, you can choose your own topic, so long as it is related to the themes of this class.
 
-As part of your discussion, cite or discuss one news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class. You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
+As part of your discussion, cite or discuss one external news article, tweet, video from Tiktok/YouTube/etc., academic paper, or other relevant form of media that is outside of the ones discussed or shared in class. You can include multiple of these if that’s what you want to talk about, but just one is required for submission.
 
-Both the topic and the title/author should be stated at the beginning of the podcast. Or, if the media is not titled (e.g., a tweet), you should say as much of it as needed for a listener to look up the tweet (e.g., read the short tweet aloud).
+Both the topic and the title/author of your external media piece should be stated at the beginning of the podcast. If you are choosing your own topic, we encourage you to find a succinct, 2-5 word phrase for the topic, before you dive in. If the media is not titled (e.g., a tweet), you should say as much of it as needed for a listener to look up the tweet (e.g., read the short tweet aloud).
 
 ## Project partner search
 
 You should “register” your group of 2-3 students total (that is, you and 1-2 other students) via bCourses.
-* *Groups are two to three students.* No groups of one will be permitted for this assignment.
+* *Groups are two to three students.* Individual groups will only be permitted on a case-by-case basis with prior course staff approval.
 * We will have a pinned Ed post to search for project partners. If you post on this thread, we ask that you mark your threads as “resolved” to help other students search.
 * Register your partners via bCourses by {{ page.date.proposal | date: "%a %m/%d" }}, {{site.assignment_time}}. Unassigned students by this time will be automatically assigned within 24 hours and notified via email.
 * [How do I join a group as a student?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-join-a-group-as-a-student/ta-p/468)
