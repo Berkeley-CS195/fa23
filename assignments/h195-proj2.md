@@ -20,7 +20,7 @@ title: Technology and the Community
 : activity during {{ page.release | date: "%a %m/%d" }} discussion
 
 2. Proposal. [link](#2-proposal)
-: **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at [link](https://bcourses.berkeley.edu/courses/1528441/assignments/8666933)
+: **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at [bCourses](https://bcourses.berkeley.edu/courses/1528441/assignments/8666933)
 
 3. Checkpoint
 : Meet with TAs by **{{ page.date.checkpoint2 | date: "%a %m/%d" }}**.
