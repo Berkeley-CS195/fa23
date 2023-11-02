@@ -1,7 +1,7 @@
 ---
 layout: page
 is_h195: false
-released: false
+released: true
 hide: false     # does not show up in assignment bar
 has:
   proposal: true
