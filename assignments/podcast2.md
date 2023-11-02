@@ -9,7 +9,7 @@ has:
 date:
   due: 2023-11-20
   proposal: 2023-11-08
-  peer_assign: 2023-11-18
+  peer_assign: 2023-11-10
   peer: 2023-11-27
 title: Podcast 2
 index: 2
