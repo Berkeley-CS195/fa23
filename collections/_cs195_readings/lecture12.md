@@ -3,7 +3,7 @@ layout: cs195-reading
 date: 2023-11-08
 number: "12"
 title: "[Kelly Billings] CS Education"
-readings_released: false
+readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSf_ggjcQy_tSKw_sgeKkX00N3zkAyTVhotDWa81kk54kL3bVA/viewform
 slides:
   link: "https://docs.google.com/presentation/d/17_vbNpYAdAicNZkXJoyXcJwWtRYwEVAO9_i25dgwzuk/edit?usp=sharing"
