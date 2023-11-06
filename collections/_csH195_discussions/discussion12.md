@@ -9,8 +9,6 @@ slides:
 readings_released: false
 ---
 
-Design Justice, by Sasha Costanza-Chock:
-
-- [Introduction, through Design Justice Network Principles](https://designjustice.mitpress.mit.edu/pub/ap8rgw5e/release/1?readingCollection=9eadecb0) (ending just before Methods)
+- [_Pedagogy of the Oppressed_, Paulo Freire. Chapter 2, pages 71-86](https://envs.ucsc.edu/internships/internship-readings/freire-pedagogy-of-the-oppressed.pdf)
 - [Design Practices: "Nothing about Us without Us"](https://designjustice.mitpress.mit.edu/pub/cfohnud7/release/4) (full chapter)
 - \[OPTIONAL\] [Design Pedagogies: "There's Something Wrong with This System!"](https://designjustice.mitpress.mit.edu/pub/y2ymuvuk/release/1?readingCollection=9eadecb0)
