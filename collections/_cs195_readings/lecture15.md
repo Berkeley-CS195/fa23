@@ -7,7 +7,7 @@ survey: https://docs.google.com/forms/d/e/1FAIpQLSc1H60shHyrhcZcLRR_Be_xr5ldO4FY
 slides:
   link: "https://docs.google.com/presentation/d/1mdKHWD6jfAdharAFDdHycX9duQsGyPBGTJANe_2XEok/edit"
   released: false
-readings_released: false
+readings_released: true
 ---
 
 **Required, choose one of:**
