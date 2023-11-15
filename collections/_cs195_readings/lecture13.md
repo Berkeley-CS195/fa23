@@ -16,3 +16,4 @@ slides:
 
 _Optional_:
 * Phillips and Milner, [_You Are Here_: Introduction](https://doi.org/10.7551/mitpress/12436.003.0002), 2021.
+* Phillips and Milner, [_You Are Here_: Chapter 5, Cultivating Ecological Literacy](https://doi.org/10.7551/mitpress/12436.001.0001), 2021.
