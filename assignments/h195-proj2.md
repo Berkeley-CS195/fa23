@@ -23,7 +23,7 @@ title: Technology and the Community
 : **Due {{ page.date.checkpoint1 | date: "%a %m/%d" }}, {{site.assignment_time}}** at [bCourses](https://bcourses.berkeley.edu/courses/1528441/assignments/8666933)
 
 3. Checkpoint
-: Meet with TAs by **{{ page.date.checkpoint2 | date: "%a %m/%d" }}**.
+: Meet with TAs on or right after **{{ page.date.checkpoint2 | date: "%a %m/%d" }}**.
 
 3. Presentation. [link](#3-presentation)
 : TBD, either {{page.presentationdue}} in extended section or early RRR
