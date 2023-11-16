@@ -6,8 +6,8 @@ title: "Memes, Misinformation, and Information Literacy"
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSei3R1Zm7JHpHDZesRHIFDm7ewug02Ff3UFvIF7mr4g6zguYA/viewform
 slides:
-  link: "https://docs.google.com/presentation/d/1tGgZxxr1tuacLn6oAVbqR_NhrMDepQEA9vYD5MVfIvs/edit#slide=id.g409413421_0637"
-  released: false
+  link: "https://docs.google.com/presentation/d/10ECEVxLI_BcFsC-TekzLbeczoHZAuLr-q1HRtbD85dc/edit?usp=sharing"
+  released: true
 ---
 
 **Required**:
