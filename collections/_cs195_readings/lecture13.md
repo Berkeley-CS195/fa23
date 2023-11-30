@@ -2,7 +2,7 @@
 layout: cs195-reading
 date: 2023-11-15
 number: "13"
-title: "Memes, Misinformation, and Information Literacy"
+title: "Memes, Misinformation, and Media Literacy"
 readings_released: true
 survey: https://docs.google.com/forms/d/e/1FAIpQLSei3R1Zm7JHpHDZesRHIFDm7ewug02Ff3UFvIF7mr4g6zguYA/viewform
 slides:
