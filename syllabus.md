@@ -89,7 +89,7 @@ There will be periodic surveys throughout the semester, announced during class a
 
 Readings for each week will be released the Friday before each next class (or thereabouts). **Please finish the readings before class!**
 
-**QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion. (Updated 9/30 to reduce workload.)
+**QQCR, or Question, Quote, Comment, and Reply**, is a short weekly assignment on the readings to help you reflect on the readings *and* contribute to an ongoing class discussion. (Updated 8/30 to reduce workload.)
 
 To complete a QQCR,
 * Post a question, quote, comment, or reply on the associated Ed megapost for a reading.
